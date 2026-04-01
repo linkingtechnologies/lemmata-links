@@ -1,0 +1,3876 @@
+{
+  "_meta": {
+    "build_date": "2026-04-01T21:00:54.249390+00:00",
+    "content_hash": "da96af9e29ccfee8c16d3b89465ec48c2dd43dab3282b993dc3fc361713eaf08"
+  },
+  "9ff": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "ABT": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "AC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "AMC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/American_Motors",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/American_Motors",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/American_Motors_Corporation"
+    }
+  ],
+  "ARO": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/ARO_(company)",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/ARO_(company)"
+    }
+  ],
+  "Abadal": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Abarth": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Abarth",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Abarth",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Abarth"
+    }
+  ],
+  "Abbott-Detroit": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Abbott-Detroit",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Abbott-Detroit",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Abbott-Detroit"
+    }
+  ],
+  "Acura": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Acura",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Acura",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Acura"
+    }
+  ],
+  "Aiways": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Aiways",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Aiways",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Aiways"
+    }
+  ],
+  "Aixam": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Alfa Romeo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Alfa_Romeo",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Alfa_Romeo",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Alfa_Romeo"
+    }
+  ],
+  "Alpina": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Alpina_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Alpina_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Alpina"
+    }
+  ],
+  "Alpine": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Alta": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Alvis": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Apollo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Arash": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Arcfox": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arcfox",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Arcfox"
+    }
+  ],
+  "Ariel": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Ariel_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Ariel_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Ariel_Motor_Company"
+    }
+  ],
+  "Arrinera": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arrinera",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Arrinera"
+    }
+  ],
+  "Arrival": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Artega": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Ascari": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Ascari_Cars",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Ascari_Cars",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Ascari_Cars"
+    }
+  ],
+  "Askam": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Aspark": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aspark",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Aspark"
+    }
+  ],
+  "Aston Martin": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Aston_Martin",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Aston_Martin",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Aston_Martin"
+    }
+  ],
+  "Atalanta": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Auburn": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Audi": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Audi",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Audi",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Audi"
+    }
+  ],
+  "Audi Sport": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Austin": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Austin_Motor_Company",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Austin_Motor_Company",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Austin_Motor_Company"
+    }
+  ],
+  "Autobacs": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Autobianchi": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Axon": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "BAC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "BAIC Motor": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "BMW": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/BMW",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/BMW",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/BMW"
+    }
+  ],
+  "BMW M": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "BYD": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/BYD_Auto",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/BYD_Auto",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/BYD_Auto"
+    }
+  ],
+  "Baojun": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "BeiBen": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Bentley": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Bentley",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Bentley",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Bentley"
+    }
+  ],
+  "Berkeley": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Berliet": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Bertone": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Bestune": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "BharatBenz": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Bitter": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bitter_Automotive",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Bitter_Automotive"
+    }
+  ],
+  "Bizzarrini": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Borgward": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Borgward",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Borgward",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Borgward"
+    }
+  ],
+  "Bowler": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Brabus": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Brabus",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Brabus",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Brabus"
+    }
+  ],
+  "Brammo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Brilliance": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Bristol": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Bristol_Cars",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Bristol_Cars",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Bristol_Cars"
+    }
+  ],
+  "Brooke": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Bufori": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Bugatti": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Bugatti",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Bugatti",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Bugatti"
+    }
+  ],
+  "Buick": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Buick",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Buick",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Buick"
+    }
+  ],
+  "Byton": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Byton_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Byton_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Byton_(company)"
+    }
+  ],
+  "CAMC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Cadillac": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Cadillac",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Cadillac",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Cadillac"
+    }
+  ],
+  "Canoo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Caparo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Carlsson": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Caterham": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Changan": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Changfeng": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Chery": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Chery_Automobile",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Chery_Automobile",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Chery"
+    }
+  ],
+  "Chevrolet": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Chevrolet",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Chevrolet",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Chevrolet"
+    }
+  ],
+  "Chevrolet Corvette": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Chrysler": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Chrysler",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Chrysler",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Chrysler_(brand)"
+    }
+  ],
+  "Cisitalia": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Citroën": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Citroën",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Citroën",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Citroën"
+    }
+  ],
+  "Cizeta": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Cole": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Corre La Licorne": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Corre_La_Licorne",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Corre_La_Licorne",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Corre_La_Licorne"
+    }
+  ],
+  "Cupra": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cupra_(marque)",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Cupra_(marque)"
+    }
+  ],
+  "DAF": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "DINA": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "DKW": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/DKW",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/DKW",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/DKW"
+    }
+  ],
+  "DMC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "DS": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/DS_Automobiles",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/DS_Automobiles",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/DS_Automobiles"
+    }
+  ],
+  "Dacia": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Daewoo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Daewoo",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Daewoo",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Daewoo"
+    }
+  ],
+  "Daihatsu": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Daimler": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Dartz": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Datsun": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Datsun",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Datsun",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Datsun"
+    }
+  ],
+  "David Brown": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Brown_Automotive",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/David_Brown_Automotive"
+    }
+  ],
+  "Dayun": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "De Tomaso": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "DeSoto": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Delage": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Detroit Electric": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Devel Sixteen": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Diatto": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Dodge": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Dodge",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Dodge",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Dodge"
+    }
+  ],
+  "Dodge Viper": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Dongfeng": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Donkervoort": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Drako": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Drako_Motors",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Drako_Motors"
+    }
+  ],
+  "Duesenberg": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "EDAG": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "ERF": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Eagle": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Edsel": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Eicher": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Elemental": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Elemental_Motor_Company",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Elemental_Motor_Company"
+    }
+  ],
+  "Elfin": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Elva": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Englon": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Eterniti": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Exeed": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "FAW": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "FAW Jiefang": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "FPV": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "FSO": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Facel Vega": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Faraday Future": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Ferrari": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Ferrari",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Ferrari",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Ferrari"
+    }
+  ],
+  "Fiat": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/FIAT",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/FIAT",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Fiat"
+    }
+  ],
+  "Fioravanti": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Fisker": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Fisker",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Fisker",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Fisker_Inc."
+    }
+  ],
+  "Foden": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Force Motors": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Force_Motors",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Force_Motors"
+    }
+  ],
+  "Ford": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Ford",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Ford",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Ford_Motor_Company"
+    }
+  ],
+  "Ford Mustang": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Foton": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Franklin": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Freightliner": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "GAC Group": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "GAZ": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Gor'kovskij_avtomobil'nyj_zavod",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Gor'kovskij_avtomobil'nyj_zavod",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/GAZ"
+    }
+  ],
+  "GMC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Gardner Douglas": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Geely": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Geely_Holding_Group",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Geely_Holding_Group",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Geely"
+    }
+  ],
+  "General Motors": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Genesis": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Genesis_Motor",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Genesis_Motor",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Genesis_Motor"
+    }
+  ],
+  "Geo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Geometry": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Gilbern": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Gillet": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Ginetta": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Ginetta_Cars",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Ginetta_Cars",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Ginetta_Cars"
+    }
+  ],
+  "Golden Dragon": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Gonow": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Great Wall": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Grinnall": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Gumpert": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "HSV": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Hafei": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Haima": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Haval": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Haval",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Haval",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Haval_(marque)"
+    }
+  ],
+  "Hawtai": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Hennessey": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "HiPhi": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/HiPhi",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/HiPhi"
+    }
+  ],
+  "Higer": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Hillman": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Hillman_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Hillman_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Hillman"
+    }
+  ],
+  "Hindustan Motors": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Hindustan_Motors",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Hindustan_Motors",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Hindustan_Motors"
+    }
+  ],
+  "Hino": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Hispano-Suiza": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Hispano-Suiza",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Hispano-Suiza",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Hispano-Suiza"
+    }
+  ],
+  "Holden": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Hommell": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Honda": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Honda",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Honda",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Honda"
+    }
+  ],
+  "Hongqi": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Hongyan": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Horch": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Hudson": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Hummer": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Hummer",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Hummer",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Hummer"
+    }
+  ],
+  "Hupmobile": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Hyundai": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Hyundai_Motor_Company",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Hyundai_Motor_Company",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Hyundai_Motor_Company"
+    }
+  ],
+  "IC Bus": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "IH": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "IKCO": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Infiniti": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Infiniti",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Infiniti",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Infiniti"
+    }
+  ],
+  "Innocenti": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Intermeccanica": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "International": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Irizar": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Irizar",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Irizar",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Irizar"
+    }
+  ],
+  "Isdera": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Iso": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Isuzu": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Isuzu",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Isuzu",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Isuzu"
+    }
+  ],
+  "Iveco": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "JAC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "JBA Motors": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "JMC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Jaguar": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Jaguar",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Jaguar",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Jaguar_Cars"
+    }
+  ],
+  "Jawa": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Jeep": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Jeep_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Jeep_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Jeep"
+    }
+  ],
+  "Jensen": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Jetour": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Jetta": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "KTM": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/KTM",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/KTM",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/KTM"
+    }
+  ],
+  "Kaiser": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Kamaz": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Karlmann King": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Karma": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Karma_Automotive",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Karma_Automotive"
+    }
+  ],
+  "Keating": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Kenworth": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Kia": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Kia_Motors",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Kia_Motors",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Kia"
+    }
+  ],
+  "King Long": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Koenigsegg": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Koenigsegg",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Koenigsegg",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Koenigsegg"
+    }
+  ],
+  "LEVC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Lada": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/AvtoVAZ",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/AvtoVAZ",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lada"
+    }
+  ],
+  "Lagonda": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Lagonda",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Lagonda",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lagonda"
+    }
+  ],
+  "Lamborghini": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Lamborghini",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Lamborghini",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lamborghini"
+    }
+  ],
+  "Lancia": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Lancia_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Lancia_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lancia"
+    }
+  ],
+  "Land Rover": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Land_Rover",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Land_Rover",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Land_Rover"
+    }
+  ],
+  "Landwind": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Laraki": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Leapmotor": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leapmotor",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Leapmotor"
+    }
+  ],
+  "Lexus": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Lexus",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Lexus",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lexus"
+    }
+  ],
+  "Leyland": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Leyland_Motors",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Leyland_Motors",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Leyland_Motors"
+    }
+  ],
+  "Li Auto": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Li_Auto",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Li_Auto",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Li_Auto"
+    }
+  ],
+  "Lifan": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Ligier": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Lincoln": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Lincoln_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Lincoln_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lincoln_Motor_Company"
+    }
+  ],
+  "Lister": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Lister_Cars",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Lister_Cars",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lister_Motor_Company"
+    }
+  ],
+  "Lloyd": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Lobini": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Lordstown": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Lotus": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Lotus_Cars",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Lotus_Cars",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lotus_Cars"
+    }
+  ],
+  "Lucid": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Lucid_Motors",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Lucid_Motors",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lucid_Motors"
+    }
+  ],
+  "Luxgen": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Luxgen",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Luxgen",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Luxgen"
+    }
+  ],
+  "Lynk & Co": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Lynk_&_Co",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Lynk_&_Co",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Lynk_&_Co"
+    }
+  ],
+  "MAN": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "MAZ": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "MEV": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "MG": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/MG_cars",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/MG_cars"
+    }
+  ],
+  "MK": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Mack": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Mahindra": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mahindra_&_Mahindra",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Mahindra_&_Mahindra",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Mahindra_&_Mahindra"
+    }
+  ],
+  "Mansory": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Marcos": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Marlin": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Maserati": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Maserati",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Maserati",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Maserati"
+    }
+  ],
+  "Mastretta": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mastretta",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Mastretta",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Mastretta"
+    }
+  ],
+  "Maxus": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Maybach": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maybach",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Maybach"
+    }
+  ],
+  "Mazda": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mazda",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Mazda",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Mazda"
+    }
+  ],
+  "Mazzanti": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "McLaren": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/McLaren_Automotive",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/McLaren_Automotive",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/McLaren_Automotive"
+    }
+  ],
+  "Melkus": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Mercedes-AMG": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Mercedes-Benz": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mercedes-Benz",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Mercedes-Benz",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Mercedes-Benz"
+    }
+  ],
+  "Mercury": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Merkur": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Microcar": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Mini": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mini_(marchio)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Mini_(marchio)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Mini_(marque)"
+    }
+  ],
+  "Mitsubishi": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Mitsubishi_Motors_Corporation",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Mitsubishi_Motors_Corporation",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Mitsubishi_Motors"
+    }
+  ],
+  "Mitsuoka": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mitsuoka",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Mitsuoka"
+    }
+  ],
+  "Morgan": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Morgan_Motor_Company",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Morgan_Motor_Company",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Morgan_Motor_Company"
+    }
+  ],
+  "Morris": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Morris_Motor_Company",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Morris_Motor_Company",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Morris_Motors"
+    }
+  ],
+  "Mosler": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "NEVS": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "NIO": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Navistar": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Nikola": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Nissan": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Nissan_Motor",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Nissan_Motor",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Nissan"
+    }
+  ],
+  "Nissan GT-R": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Nissan Nismo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Noble": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "OSCA": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Oldsmobile": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Oltcit": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Omoda": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Omoda",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Omoda"
+    }
+  ],
+  "Opel": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Opel",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Opel",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Opel"
+    }
+  ],
+  "PGO": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Paccar": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Packard": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Packard",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Packard",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Packard"
+    }
+  ],
+  "Pagani": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Pagani_Automobili"
+    }
+  ],
+  "Panhard": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Panoz": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Panoz",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Panoz",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Panoz"
+    }
+  ],
+  "Pegaso": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Perodua": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Perodua",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Perodua",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Perodua"
+    }
+  ],
+  "Peterbilt": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Peugeot": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Peugeot",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Peugeot",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Peugeot"
+    }
+  ],
+  "Pierce-Arrow": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Pininfarina": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Plymouth": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Plymouth_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Plymouth_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Plymouth_(automobile)"
+    }
+  ],
+  "Polestar": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Cyan_Racing",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Cyan_Racing",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Polestar"
+    }
+  ],
+  "Pontiac": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Porsche": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Porsche",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Porsche",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Porsche"
+    }
+  ],
+  "Praga": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Premier": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Premier_(casa_automobilistica)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Premier_(casa_automobilistica)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Premier_(company)"
+    }
+  ],
+  "Prodrive": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Prodrive",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Prodrive",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Prodrive"
+    }
+  ],
+  "Proton": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Proton_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Proton_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Proton_Holdings"
+    }
+  ],
+  "Qoros": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "RAM": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Ram_Trucks",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Ram_Trucks",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Ram_Trucks"
+    }
+  ],
+  "RUF": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Radical": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Rambler": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Ranz": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Renault": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Renault",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Renault",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Renault"
+    }
+  ],
+  "Renault Samsung": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Rezvani": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Riley": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Riley_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Riley_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Riley_Motor"
+    }
+  ],
+  "Rimac": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Rimac_Automobili",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Rimac_Automobili",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Rimac_Automobili"
+    }
+  ],
+  "Rinspeed": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Rinspeed",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Rinspeed",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Rinspeed"
+    }
+  ],
+  "Rivian": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Rivian",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Rivian",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Rivian"
+    }
+  ],
+  "Roewe": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Rolls-Royce": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Rolls-Royce_Group",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Rolls-Royce_Group",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars"
+    }
+  ],
+  "Ronart": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Rossion": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Rover": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rover_(marque)",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Rover_(marque)"
+    }
+  ],
+  "SAIC Motor": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "SEAT": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/SEAT",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/SEAT",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/SEAT"
+    }
+  ],
+  "SEV": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "SSC": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/SSC_North_America",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/SSC_North_America",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/SSC_North_America"
+    }
+  ],
+  "Saab": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Saab_Automobile",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Saab_Automobile",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Saab_Automobile"
+    }
+  ],
+  "Saipa": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Saleen": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Saturn": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Scania": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Scion": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Setra": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Shacman": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Simca": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Singer": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Singer_Motors",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Singer_Motors",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Singer_Motors"
+    }
+  ],
+  "Singulato": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Singulato",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Singulato"
+    }
+  ],
+  "Sinotruk": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Sisu": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Smart": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Smart",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Smart",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Smart_(marque)"
+    }
+  ],
+  "Soueast": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Spania GTA": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Spania_GTA",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Spania_GTA"
+    }
+  ],
+  "Spirra": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Spyker": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Spyker_Cars",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Spyker_Cars",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Spyker_Cars"
+    }
+  ],
+  "SsangYong": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Sterling": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Studebaker": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Studebaker",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Studebaker",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Studebaker"
+    }
+  ],
+  "Stutz": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Subaru": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Subaru",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Subaru",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Subaru"
+    }
+  ],
+  "Suffolk": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Suzuki": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Suzuki",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Suzuki",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Suzuki"
+    }
+  ],
+  "TVR": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Talbot": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Tata": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Tata_Motors",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Tata_Motors",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Tata_Motors"
+    }
+  ],
+  "Tatra": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Tauro": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "TechArt": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Tesla": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Tesla_(azienda)",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Tesla_(azienda)",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+    }
+  ],
+  "Toyota": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Toyota",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Toyota",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Toyota"
+    }
+  ],
+  "Toyota Alphard": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Toyota Century": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Toyota Crown": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Tramontana": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Trion": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Triumph": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Triumph_Motor_Company",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Triumph_Motor_Company",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Triumph_Motor_Company"
+    }
+  ],
+  "Troller": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Tucker": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "UAZ": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Ul'janovskij_Avtomobil'nyj_Zavod",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Ul'janovskij_Avtomobil'nyj_Zavod",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/UAZ"
+    }
+  ],
+  "UD": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Ultima": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "VLF": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Vandenbrink": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Vauxhall": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Vauxhall_Motors",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Vauxhall_Motors",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Vauxhall_Motors"
+    }
+  ],
+  "Vector": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vector_Motors",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Vector_Motors"
+    }
+  ],
+  "Vencer": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Venturi": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Venturi_Automobiles",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Venturi_Automobiles",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Venturi_(company)"
+    }
+  ],
+  "Venucia": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "VinFast": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/VinFast",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/VinFast",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/VinFast"
+    }
+  ],
+  "Volkswagen": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Gruppo_Volkswagen",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Gruppo_Volkswagen",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Volkswagen"
+    }
+  ],
+  "Volvo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Volvo",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Volvo",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Volvo_Cars"
+    }
+  ],
+  "W Motors": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "WEY": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wey_(marque)",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Wey_(marque)"
+    }
+  ],
+  "Wanderer": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Wartburg": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Weltmeister": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Weltmeister_(marque)",
+      "wikipedia_it": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Weltmeister_(marque)"
+    }
+  ],
+  "Western Star": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Westfield": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Wiesmann": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Willys-Overland": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Workhorse": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Wuling": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "XPeng": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Xpeng",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Xpeng",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/XPeng"
+    }
+  ],
+  "Yulon": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Yutong": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "ZAZ": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Zarooq Motors": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Zastava": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Zeekr": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Zenos": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Zenvo": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Zenvo_ST1",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Zenvo_ST1",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Zenvo_Automotive"
+    }
+  ],
+  "Zhongtong": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Zinoro": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Zotye": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": null,
+      "wikipedia_it": null,
+      "wikipedia_en": null
+    }
+  ],
+  "Škoda": [
+    {
+      "definition_it": "marchio automobilistico",
+      "definition_it_source": "https://github.com/filippofilip95/car-logos-dataset/blob/master/logos/data.json",
+      "wikipedia_source": "https://dbpedia.org/sparql",
+      "wikipedia_url": "https://it.wikipedia.org/wiki/Škoda_Auto",
+      "wikipedia_it": "https://it.wikipedia.org/wiki/Škoda_Auto",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Škoda_Auto"
+    }
+  ]
+}

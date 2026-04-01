@@ -1,0 +1,1968 @@
+{
+  "_meta": {
+    "build_date": "2026-04-01T20:57:15.578584+00:00",
+    "content_hash": "c8d4d8d9f6f971a15018ab736922542f9251b41c4149f8ece5b6b35ed00ac1be"
+  },
+  "AG": [
+    {
+      "definition_it": "Libero consorzio di comuni di Agrigento",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "084",
+      "province_name_it": "Agrigento",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Libero consorzio di Comuni",
+      "administrative_unit_type_code": "4",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16112",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16112",
+      "wikidata_label_it": "provincia di Agrigento",
+      "wikidata_instance_of_it": "libero consorzio comunale della Sicilia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q21190155",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Agrigento"
+    }
+  ],
+  "AL": [
+    {
+      "definition_it": "Provincia di Alessandria",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "006",
+      "province_name_it": "Alessandria",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q15097",
+      "wikidata_url": "http://www.wikidata.org/entity/Q15097",
+      "wikidata_label_it": "provincia di Alessandria",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Alessandria"
+    }
+  ],
+  "AN": [
+    {
+      "definition_it": "Provincia di Ancona",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "042",
+      "province_name_it": "Ancona",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16114",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16114",
+      "wikidata_label_it": "provincia di Ancona",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Ancona"
+    }
+  ],
+  "AO": [
+    {
+      "definition_it": "Provincia di Valle d'Aosta/Vallée d'Aoste",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "007",
+      "province_name_it": "Valle d'Aosta/Vallée d'Aoste",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q1222",
+      "wikidata_url": "http://www.wikidata.org/entity/Q1222",
+      "wikidata_label_it": "Valle d'Aosta",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Valle_d%27Aosta"
+    }
+  ],
+  "AP": [
+    {
+      "definition_it": "Provincia di Ascoli Piceno",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "044",
+      "province_name_it": "Ascoli Piceno",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16117",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16117",
+      "wikidata_label_it": "provincia di Ascoli Piceno",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Ascoli_Piceno"
+    }
+  ],
+  "AQ": [
+    {
+      "definition_it": "Provincia dell'Aquila",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "066",
+      "province_name_it": "L'Aquila",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16189",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16189",
+      "wikidata_label_it": "provincia dell'Aquila",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_dell%27Aquila"
+    }
+  ],
+  "AR": [
+    {
+      "definition_it": "Provincia di Arezzo",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "051",
+      "province_name_it": "Arezzo",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16115",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16115",
+      "wikidata_label_it": "provincia di Arezzo",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Arezzo"
+    }
+  ],
+  "AT": [
+    {
+      "definition_it": "Provincia di Asti",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "005",
+      "province_name_it": "Asti",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q15099",
+      "wikidata_url": "http://www.wikidata.org/entity/Q15099",
+      "wikidata_label_it": "provincia di Asti",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Asti"
+    }
+  ],
+  "AV": [
+    {
+      "definition_it": "Provincia di Avellino",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "064",
+      "province_name_it": "Avellino",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16120",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16120",
+      "wikidata_label_it": "provincia di Avellino",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Avellino"
+    }
+  ],
+  "BA": [
+    {
+      "definition_it": "Città metropolitana di Bari",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "072",
+      "province_name_it": "Bari",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q18241854",
+      "wikidata_url": "http://www.wikidata.org/entity/Q18241854",
+      "wikidata_label_it": "città metropolitana di Bari",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Bari"
+    }
+  ],
+  "BG": [
+    {
+      "definition_it": "Provincia di Bergamo",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "016",
+      "province_name_it": "Bergamo",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16137",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16137",
+      "wikidata_label_it": "provincia di Bergamo",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Bergamo"
+    }
+  ],
+  "BI": [
+    {
+      "definition_it": "Provincia di Biella",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "096",
+      "province_name_it": "Biella",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q15094",
+      "wikidata_url": "http://www.wikidata.org/entity/Q15094",
+      "wikidata_label_it": "provincia di Biella",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Biella"
+    }
+  ],
+  "BL": [
+    {
+      "definition_it": "Provincia di Belluno",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "025",
+      "province_name_it": "Belluno",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16126",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16126",
+      "wikidata_label_it": "provincia di Belluno",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Belluno"
+    }
+  ],
+  "BN": [
+    {
+      "definition_it": "Provincia di Benevento",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "062",
+      "province_name_it": "Benevento",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16134",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16134",
+      "wikidata_label_it": "provincia di Benevento",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Benevento"
+    }
+  ],
+  "BO": [
+    {
+      "definition_it": "Città metropolitana di Bologna",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "037",
+      "province_name_it": "Bologna",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q18288145",
+      "wikidata_url": "http://www.wikidata.org/entity/Q18288145",
+      "wikidata_label_it": "città metropolitana di Bologna",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Bologna"
+    }
+  ],
+  "BR": [
+    {
+      "definition_it": "Provincia di Brindisi",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "074",
+      "province_name_it": "Brindisi",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16148",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16148",
+      "wikidata_label_it": "provincia di Brindisi",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Brindisi"
+    }
+  ],
+  "BS": [
+    {
+      "definition_it": "Provincia di Brescia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "017",
+      "province_name_it": "Brescia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16144",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16144",
+      "wikidata_label_it": "provincia di Brescia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Brescia"
+    }
+  ],
+  "BT": [
+    {
+      "definition_it": "Provincia di Barletta-Andria-Trani",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "110",
+      "province_name_it": "Barletta-Andria-Trani",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16124",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16124",
+      "wikidata_label_it": "provincia di Barletta-Andria-Trani",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Barletta-Andria-Trani"
+    }
+  ],
+  "BZ": [
+    {
+      "definition_it": "Provincia autonoma di Bolzano/Bozen",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "021",
+      "province_name_it": "Bolzano/Bozen",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia autonoma",
+      "administrative_unit_type_code": "2",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q15124",
+      "wikidata_url": "http://www.wikidata.org/entity/Q15124",
+      "wikidata_label_it": "provincia autonoma di Bolzano",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_autonoma_di_Bolzano"
+    }
+  ],
+  "CA": [
+    {
+      "definition_it": "Città metropolitana di Cagliari",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "118",
+      "province_name_it": "Cagliari",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q3622022",
+      "wikidata_url": "http://www.wikidata.org/entity/Q3622022",
+      "wikidata_label_it": "città metropolitana di Cagliari",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Cagliari"
+    }
+  ],
+  "CB": [
+    {
+      "definition_it": "Provincia di Campobasso",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "070",
+      "province_name_it": "Campobasso",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16151",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16151",
+      "wikidata_label_it": "provincia di Campobasso",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Campobasso"
+    }
+  ],
+  "CE": [
+    {
+      "definition_it": "Provincia di Caserta",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "061",
+      "province_name_it": "Caserta",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16153",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16153",
+      "wikidata_label_it": "provincia di Caserta",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Caserta"
+    }
+  ],
+  "CH": [
+    {
+      "definition_it": "Provincia di Chieti",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "069",
+      "province_name_it": "Chieti",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16160",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16160",
+      "wikidata_label_it": "provincia di Chieti",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Chieti"
+    }
+  ],
+  "CI": [
+    {
+      "definition_it": "Provincia di Sulcis Iglesiente",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "119",
+      "province_name_it": "Sulcis Iglesiente",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q106997093",
+      "wikidata_url": "http://www.wikidata.org/entity/Q106997093",
+      "wikidata_label_it": "provincia del Sulcis Iglesiente",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_del_Sulcis_Iglesiente"
+    }
+  ],
+  "CL": [
+    {
+      "definition_it": "Libero consorzio di comuni di Caltanissetta",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "085",
+      "province_name_it": "Caltanissetta",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Libero consorzio di Comuni",
+      "administrative_unit_type_code": "4",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16150",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16150",
+      "wikidata_label_it": "provincia di Caltanissetta",
+      "wikidata_instance_of_it": "libero consorzio comunale della Sicilia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q21190155",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Caltanissetta"
+    }
+  ],
+  "CN": [
+    {
+      "definition_it": "Provincia di Cuneo",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "004",
+      "province_name_it": "Cuneo",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q15091",
+      "wikidata_url": "http://www.wikidata.org/entity/Q15091",
+      "wikidata_label_it": "provincia di Cuneo",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Cuneo"
+    }
+  ],
+  "CO": [
+    {
+      "definition_it": "Provincia di Como",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "013",
+      "province_name_it": "Como",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16161",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16161",
+      "wikidata_label_it": "provincia di Como",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Como"
+    }
+  ],
+  "CR": [
+    {
+      "definition_it": "Provincia di Cremona",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "019",
+      "province_name_it": "Cremona",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16163",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16163",
+      "wikidata_label_it": "provincia di Cremona",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Cremona"
+    }
+  ],
+  "CS": [
+    {
+      "definition_it": "Provincia di Cosenza",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "078",
+      "province_name_it": "Cosenza",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16162",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16162",
+      "wikidata_label_it": "provincia di Cosenza",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Cosenza"
+    }
+  ],
+  "CT": [
+    {
+      "definition_it": "Città metropolitana di Catania",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "087",
+      "province_name_it": "Catania",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q20991246",
+      "wikidata_url": "http://www.wikidata.org/entity/Q20991246",
+      "wikidata_label_it": "città metropolitana di Catania",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Catania"
+    }
+  ],
+  "CZ": [
+    {
+      "definition_it": "Provincia di Catanzaro",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "079",
+      "province_name_it": "Catanzaro",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16159",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16159",
+      "wikidata_label_it": "provincia di Catanzaro",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Catanzaro"
+    }
+  ],
+  "EN": [
+    {
+      "definition_it": "Libero consorzio di comuni di Enna",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "086",
+      "province_name_it": "Enna",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Libero consorzio di Comuni",
+      "administrative_unit_type_code": "4",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q26160408",
+      "wikidata_url": "http://www.wikidata.org/entity/Q26160408",
+      "wikidata_label_it": "Libero consorzio comunale di Enna",
+      "wikidata_instance_of_it": "libero consorzio comunale della Sicilia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q21190155",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Libero_consorzio_comunale_di_Enna"
+    }
+  ],
+  "FC": [
+    {
+      "definition_it": "Provincia di Forlì-Cesena",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "040",
+      "province_name_it": "Forlì-Cesena",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16180",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16180",
+      "wikidata_label_it": "provincia di Forlì-Cesena",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Forl%C3%AC-Cesena"
+    }
+  ],
+  "FE": [
+    {
+      "definition_it": "Provincia di Ferrara",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "038",
+      "province_name_it": "Ferrara",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16168",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16168",
+      "wikidata_label_it": "provincia di Ferrara",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Ferrara"
+    }
+  ],
+  "FG": [
+    {
+      "definition_it": "Provincia di Foggia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "071",
+      "province_name_it": "Foggia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q15129",
+      "wikidata_url": "http://www.wikidata.org/entity/Q15129",
+      "wikidata_label_it": "provincia di Foggia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Foggia"
+    }
+  ],
+  "FI": [
+    {
+      "definition_it": "Città metropolitana di Firenze",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "048",
+      "province_name_it": "Firenze",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q18288148",
+      "wikidata_url": "http://www.wikidata.org/entity/Q18288148",
+      "wikidata_label_it": "città metropolitana di Firenze",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Firenze"
+    }
+  ],
+  "FM": [
+    {
+      "definition_it": "Provincia di Fermo",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "109",
+      "province_name_it": "Fermo",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16167",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16167",
+      "wikidata_label_it": "provincia di Fermo",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Fermo"
+    }
+  ],
+  "FR": [
+    {
+      "definition_it": "Provincia di Frosinone",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "060",
+      "province_name_it": "Frosinone",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16181",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16181",
+      "wikidata_label_it": "provincia di Frosinone",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Frosinone"
+    }
+  ],
+  "GE": [
+    {
+      "definition_it": "Città metropolitana di Genova",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "010",
+      "province_name_it": "Genova",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q18288152",
+      "wikidata_url": "http://www.wikidata.org/entity/Q18288152",
+      "wikidata_label_it": "città metropolitana di Genova",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Genova"
+    }
+  ],
+  "GO": [
+    {
+      "definition_it": "Gorizia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "031",
+      "province_name_it": "Gorizia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Unità non amministrativa",
+      "administrative_unit_type_code": "5",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16184",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16184",
+      "wikidata_label_it": "provincia di Gorizia",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Gorizia"
+    }
+  ],
+  "GR": [
+    {
+      "definition_it": "Provincia di Grosseto",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "053",
+      "province_name_it": "Grosseto",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16185",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16185",
+      "wikidata_label_it": "provincia di Grosseto",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Grosseto"
+    }
+  ],
+  "IM": [
+    {
+      "definition_it": "Provincia di Imperia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "008",
+      "province_name_it": "Imperia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16186",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16186",
+      "wikidata_label_it": "provincia di Imperia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Imperia"
+    }
+  ],
+  "IS": [
+    {
+      "definition_it": "Provincia di Isernia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "094",
+      "province_name_it": "Isernia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16187",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16187",
+      "wikidata_label_it": "provincia di Isernia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Isernia"
+    }
+  ],
+  "KR": [
+    {
+      "definition_it": "Provincia di Crotone",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "101",
+      "province_name_it": "Crotone",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16165",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16165",
+      "wikidata_label_it": "provincia di Crotone",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Crotone"
+    }
+  ],
+  "LC": [
+    {
+      "definition_it": "Provincia di Lecco",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "097",
+      "province_name_it": "Lecco",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16199",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16199",
+      "wikidata_label_it": "provincia di Lecco",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Lecco"
+    }
+  ],
+  "LE": [
+    {
+      "definition_it": "Provincia di Lecce",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "075",
+      "province_name_it": "Lecce",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16197",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16197",
+      "wikidata_label_it": "provincia di Lecce",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Lecce"
+    }
+  ],
+  "LI": [
+    {
+      "definition_it": "Provincia di Livorno",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "049",
+      "province_name_it": "Livorno",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16200",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16200",
+      "wikidata_label_it": "provincia di Livorno",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Livorno"
+    }
+  ],
+  "LO": [
+    {
+      "definition_it": "Provincia di Lodi",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "098",
+      "province_name_it": "Lodi",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16201",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16201",
+      "wikidata_label_it": "provincia di Lodi",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Lodi"
+    }
+  ],
+  "LT": [
+    {
+      "definition_it": "Provincia di Latina",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "059",
+      "province_name_it": "Latina",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16196",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16196",
+      "wikidata_label_it": "provincia di Latina",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Latina"
+    }
+  ],
+  "LU": [
+    {
+      "definition_it": "Provincia di Lucca",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "046",
+      "province_name_it": "Lucca",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16202",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16202",
+      "wikidata_label_it": "provincia di Lucca",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Lucca"
+    }
+  ],
+  "MB": [
+    {
+      "definition_it": "Provincia di Monza e della Brianza",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "108",
+      "province_name_it": "Monza e della Brianza",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16210",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16210",
+      "wikidata_label_it": "provincia di Monza e della Brianza",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Monza_e_della_Brianza"
+    }
+  ],
+  "MC": [
+    {
+      "definition_it": "Provincia di Macerata",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "043",
+      "province_name_it": "Macerata",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16203",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16203",
+      "wikidata_label_it": "provincia di Macerata",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Macerata"
+    }
+  ],
+  "ME": [
+    {
+      "definition_it": "Città metropolitana di Messina",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "083",
+      "province_name_it": "Messina",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q20991250",
+      "wikidata_url": "http://www.wikidata.org/entity/Q20991250",
+      "wikidata_label_it": "città metropolitana di Messina",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Messina"
+    }
+  ],
+  "MI": [
+    {
+      "definition_it": "Città metropolitana di Milano",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "015",
+      "province_name_it": "Milano",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q18288155",
+      "wikidata_url": "http://www.wikidata.org/entity/Q18288155",
+      "wikidata_label_it": "città metropolitana di Milano",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Milano"
+    }
+  ],
+  "MN": [
+    {
+      "definition_it": "Provincia di Mantova",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "020",
+      "province_name_it": "Mantova",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16204",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16204",
+      "wikidata_label_it": "provincia di Mantova",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Mantova"
+    }
+  ],
+  "MO": [
+    {
+      "definition_it": "Provincia di Modena",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "036",
+      "province_name_it": "Modena",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16209",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16209",
+      "wikidata_label_it": "provincia di Modena",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Modena"
+    }
+  ],
+  "MS": [
+    {
+      "definition_it": "Provincia di Massa-Carrara",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "045",
+      "province_name_it": "Massa-Carrara",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16205",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16205",
+      "wikidata_label_it": "provincia di Massa-Carrara",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Massa-Carrara"
+    }
+  ],
+  "MT": [
+    {
+      "definition_it": "Provincia di Matera",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "077",
+      "province_name_it": "Matera",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16206",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16206",
+      "wikidata_label_it": "provincia di Matera",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Matera"
+    }
+  ],
+  "NO": [
+    {
+      "definition_it": "Provincia di Novara",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "003",
+      "province_name_it": "Novara",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16216",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16216",
+      "wikidata_label_it": "provincia di Novara",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Novara"
+    }
+  ],
+  "NU": [
+    {
+      "definition_it": "Provincia di Nuoro",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "114",
+      "province_name_it": "Nuoro",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16220",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16220",
+      "wikidata_label_it": "provincia di Nuoro",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Nuoro"
+    }
+  ],
+  "OG": [
+    {
+      "definition_it": "Provincia di Ogliastra",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "116",
+      "province_name_it": "Ogliastra",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16223",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16223",
+      "wikidata_label_it": "provincia dell'Ogliastra",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_dell%27Ogliastra"
+    }
+  ],
+  "OR": [
+    {
+      "definition_it": "Provincia di Oristano",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "115",
+      "province_name_it": "Oristano",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16225",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16225",
+      "wikidata_label_it": "provincia di Oristano",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Oristano"
+    }
+  ],
+  "OT": [
+    {
+      "definition_it": "Provincia di Gallura Nord-Est Sardegna",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "113",
+      "province_name_it": "Gallura Nord-Est Sardegna",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q106996869",
+      "wikidata_url": "http://www.wikidata.org/entity/Q106996869",
+      "wikidata_label_it": "provincia della Gallura Nord-Est Sardegna",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_della_Gallura_Nord-Est_Sardegna"
+    }
+  ],
+  "PA": [
+    {
+      "definition_it": "Città metropolitana di Palermo",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "082",
+      "province_name_it": "Palermo",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q20795016",
+      "wikidata_url": "http://www.wikidata.org/entity/Q20795016",
+      "wikidata_label_it": "città metropolitana di Palermo",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Palermo"
+    }
+  ],
+  "PC": [
+    {
+      "definition_it": "Provincia di Piacenza",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "033",
+      "province_name_it": "Piacenza",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16243",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16243",
+      "wikidata_label_it": "provincia di Piacenza",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Piacenza"
+    }
+  ],
+  "PD": [
+    {
+      "definition_it": "Provincia di Padova",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "028",
+      "province_name_it": "Padova",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16226",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16226",
+      "wikidata_label_it": "provincia di Padova",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Padova"
+    }
+  ],
+  "PE": [
+    {
+      "definition_it": "Provincia di Pescara",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "068",
+      "province_name_it": "Pescara",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16242",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16242",
+      "wikidata_label_it": "provincia di Pescara",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Pescara"
+    }
+  ],
+  "PG": [
+    {
+      "definition_it": "Provincia di Perugia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "054",
+      "province_name_it": "Perugia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16240",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16240",
+      "wikidata_label_it": "provincia di Perugia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Perugia"
+    }
+  ],
+  "PI": [
+    {
+      "definition_it": "Provincia di Pisa",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "050",
+      "province_name_it": "Pisa",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16244",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16244",
+      "wikidata_label_it": "provincia di Pisa",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Pisa"
+    }
+  ],
+  "PN": [
+    {
+      "definition_it": "Pordenone",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "093",
+      "province_name_it": "Pordenone",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Unità non amministrativa",
+      "administrative_unit_type_code": "5",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16247",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16247",
+      "wikidata_label_it": "provincia di Pordenone",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Pordenone"
+    }
+  ],
+  "PO": [
+    {
+      "definition_it": "Provincia di Prato",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "100",
+      "province_name_it": "Prato",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16250",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16250",
+      "wikidata_label_it": "provincia di Prato",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Prato"
+    }
+  ],
+  "PR": [
+    {
+      "definition_it": "Provincia di Parma",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "034",
+      "province_name_it": "Parma",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16228",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16228",
+      "wikidata_label_it": "provincia di Parma",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Parma"
+    }
+  ],
+  "PT": [
+    {
+      "definition_it": "Provincia di Pistoia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "047",
+      "province_name_it": "Pistoia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16245",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16245",
+      "wikidata_label_it": "provincia di Pistoia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Pistoia"
+    }
+  ],
+  "PU": [
+    {
+      "definition_it": "Provincia di Pesaro e Urbino",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "041",
+      "province_name_it": "Pesaro e Urbino",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16241",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16241",
+      "wikidata_label_it": "provincia di Pesaro e Urbino",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Pesaro_e_Urbino"
+    }
+  ],
+  "PV": [
+    {
+      "definition_it": "Provincia di Pavia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "018",
+      "province_name_it": "Pavia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16231",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16231",
+      "wikidata_label_it": "provincia di Pavia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Pavia"
+    }
+  ],
+  "PZ": [
+    {
+      "definition_it": "Provincia di Potenza",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "076",
+      "province_name_it": "Potenza",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16249",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16249",
+      "wikidata_label_it": "provincia di Potenza",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Potenza"
+    }
+  ],
+  "RA": [
+    {
+      "definition_it": "Provincia di Ravenna",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "039",
+      "province_name_it": "Ravenna",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16252",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16252",
+      "wikidata_label_it": "provincia di Ravenna",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Ravenna"
+    }
+  ],
+  "RC": [
+    {
+      "definition_it": "Città metropolitana di Reggio Calabria",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "080",
+      "province_name_it": "Reggio Calabria",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q3678586",
+      "wikidata_url": "http://www.wikidata.org/entity/Q3678586",
+      "wikidata_label_it": "città metropolitana di Reggio Calabria",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Reggio_Calabria"
+    }
+  ],
+  "RE": [
+    {
+      "definition_it": "Provincia di Reggio nell'Emilia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "035",
+      "province_name_it": "Reggio nell'Emilia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16254",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16254",
+      "wikidata_label_it": "provincia di Reggio Emilia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Reggio_Emilia"
+    }
+  ],
+  "RG": [
+    {
+      "definition_it": "Libero consorzio di comuni di Ragusa",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "088",
+      "province_name_it": "Ragusa",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Libero consorzio di Comuni",
+      "administrative_unit_type_code": "4",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q26160405",
+      "wikidata_url": "http://www.wikidata.org/entity/Q26160405",
+      "wikidata_label_it": "Libero consorzio comunale di Ragusa",
+      "wikidata_instance_of_it": "libero consorzio comunale della Sicilia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q21190155",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Libero_consorzio_comunale_di_Ragusa"
+    }
+  ],
+  "RI": [
+    {
+      "definition_it": "Provincia di Rieti",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "057",
+      "province_name_it": "Rieti",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16267",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16267",
+      "wikidata_label_it": "provincia di Rieti",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Rieti"
+    }
+  ],
+  "RM": [
+    {
+      "definition_it": "Città metropolitana di Roma",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "058",
+      "province_name_it": "Roma",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q15119",
+      "wikidata_url": "http://www.wikidata.org/entity/Q15119",
+      "wikidata_label_it": "provincia di Roma",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Roma"
+    }
+  ],
+  "RN": [
+    {
+      "definition_it": "Provincia di Rimini",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "099",
+      "province_name_it": "Rimini",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16268",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16268",
+      "wikidata_label_it": "provincia di Rimini",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Rimini"
+    }
+  ],
+  "RO": [
+    {
+      "definition_it": "Provincia di Rovigo",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "029",
+      "province_name_it": "Rovigo",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16270",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16270",
+      "wikidata_label_it": "provincia di Rovigo",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Rovigo"
+    }
+  ],
+  "SA": [
+    {
+      "definition_it": "Provincia di Salerno",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "065",
+      "province_name_it": "Salerno",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16271",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16271",
+      "wikidata_label_it": "provincia di Salerno",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Salerno"
+    }
+  ],
+  "SI": [
+    {
+      "definition_it": "Provincia di Siena",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "052",
+      "province_name_it": "Siena",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16275",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16275",
+      "wikidata_label_it": "provincia di Siena",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Siena"
+    }
+  ],
+  "SO": [
+    {
+      "definition_it": "Provincia di Sondrio",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "014",
+      "province_name_it": "Sondrio",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16282",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16282",
+      "wikidata_label_it": "provincia di Sondrio",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Sondrio"
+    }
+  ],
+  "SP": [
+    {
+      "definition_it": "Provincia della Spezia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "011",
+      "province_name_it": "La Spezia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16188",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16188",
+      "wikidata_label_it": "provincia della Spezia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_della_Spezia"
+    }
+  ],
+  "SR": [
+    {
+      "definition_it": "Libero consorzio di comuni di Siracusa",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "089",
+      "province_name_it": "Siracusa",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Libero consorzio di Comuni",
+      "administrative_unit_type_code": "4",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q25510290",
+      "wikidata_url": "http://www.wikidata.org/entity/Q25510290",
+      "wikidata_label_it": "libero consorzio comunale di Siracusa",
+      "wikidata_instance_of_it": "libero consorzio comunale della Sicilia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q21190155",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Libero_consorzio_comunale_di_Siracusa"
+    }
+  ],
+  "SS": [
+    {
+      "definition_it": "Città metropolitana di Sassari",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "112",
+      "province_name_it": "Sassari",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q106997185",
+      "wikidata_url": "http://www.wikidata.org/entity/Q106997185",
+      "wikidata_label_it": "città metropolitana di Sassari",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Sassari"
+    }
+  ],
+  "SV": [
+    {
+      "definition_it": "Provincia di Savona",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "009",
+      "province_name_it": "Savona",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16274",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16274",
+      "wikidata_label_it": "provincia di Savona",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Savona"
+    }
+  ],
+  "TA": [
+    {
+      "definition_it": "Provincia di Taranto",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "073",
+      "province_name_it": "Taranto",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16283",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16283",
+      "wikidata_label_it": "provincia di Taranto",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Taranto"
+    }
+  ],
+  "TE": [
+    {
+      "definition_it": "Provincia di Teramo",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "067",
+      "province_name_it": "Teramo",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16284",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16284",
+      "wikidata_label_it": "provincia di Teramo",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Teramo"
+    }
+  ],
+  "TN": [
+    {
+      "definition_it": "Provincia autonoma di Trento",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "022",
+      "province_name_it": "Trento",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia autonoma",
+      "administrative_unit_type_code": "2",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16289",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16289",
+      "wikidata_label_it": "provincia autonoma di Trento",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_autonoma_di_Trento"
+    }
+  ],
+  "TO": [
+    {
+      "definition_it": "Città metropolitana di Torino",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "001",
+      "province_name_it": "Torino",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q18288162",
+      "wikidata_url": "http://www.wikidata.org/entity/Q18288162",
+      "wikidata_label_it": "città metropolitana di Torino",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Torino"
+    }
+  ],
+  "TP": [
+    {
+      "definition_it": "Libero consorzio di comuni di Trapani",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "081",
+      "province_name_it": "Trapani",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Libero consorzio di Comuni",
+      "administrative_unit_type_code": "4",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q26160403",
+      "wikidata_url": "http://www.wikidata.org/entity/Q26160403",
+      "wikidata_label_it": "Libero consorzio comunale di Trapani",
+      "wikidata_instance_of_it": "libero consorzio comunale della Sicilia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q21190155",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Libero_consorzio_comunale_di_Trapani"
+    }
+  ],
+  "TR": [
+    {
+      "definition_it": "Provincia di Terni",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "055",
+      "province_name_it": "Terni",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16286",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16286",
+      "wikidata_label_it": "provincia di Terni",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Terni"
+    }
+  ],
+  "TS": [
+    {
+      "definition_it": "Trieste",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "032",
+      "province_name_it": "Trieste",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Unità non amministrativa",
+      "administrative_unit_type_code": "5",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16293",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16293",
+      "wikidata_label_it": "provincia di Trieste",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Trieste"
+    }
+  ],
+  "TV": [
+    {
+      "definition_it": "Provincia di Treviso",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "026",
+      "province_name_it": "Treviso",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16292",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16292",
+      "wikidata_label_it": "provincia di Treviso",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Treviso"
+    }
+  ],
+  "UD": [
+    {
+      "definition_it": "Udine",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "030",
+      "province_name_it": "Udine",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Unità non amministrativa",
+      "administrative_unit_type_code": "5",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16294",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16294",
+      "wikidata_label_it": "provincia di Udine",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Udine"
+    }
+  ],
+  "VA": [
+    {
+      "definition_it": "Provincia di Varese",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "012",
+      "province_name_it": "Varese",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16299",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16299",
+      "wikidata_label_it": "provincia di Varese",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Varese"
+    }
+  ],
+  "VB": [
+    {
+      "definition_it": "Provincia di Verbano-Cusio-Ossola",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "103",
+      "province_name_it": "Verbano-Cusio-Ossola",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16312",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16312",
+      "wikidata_label_it": "provincia del Verbano-Cusio-Ossola",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_del_Verbano-Cusio-Ossola"
+    }
+  ],
+  "VC": [
+    {
+      "definition_it": "Provincia di Vercelli",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "002",
+      "province_name_it": "Vercelli",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q15096",
+      "wikidata_url": "http://www.wikidata.org/entity/Q15096",
+      "wikidata_label_it": "provincia di Vercelli",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Vercelli"
+    }
+  ],
+  "VE": [
+    {
+      "definition_it": "Città metropolitana di Venezia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "027",
+      "province_name_it": "Venezia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Città metropolitana",
+      "administrative_unit_type_code": "3",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q3678587",
+      "wikidata_url": "http://www.wikidata.org/entity/Q3678587",
+      "wikidata_label_it": "città metropolitana di Venezia",
+      "wikidata_instance_of_it": "città metropolitana d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15110",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Citt%C3%A0_metropolitana_di_Venezia"
+    }
+  ],
+  "VI": [
+    {
+      "definition_it": "Provincia di Vicenza",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "024",
+      "province_name_it": "Vicenza",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16316",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16316",
+      "wikidata_label_it": "provincia di Vicenza",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Vicenza"
+    }
+  ],
+  "VR": [
+    {
+      "definition_it": "Provincia di Verona",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "023",
+      "province_name_it": "Verona",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16314",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16314",
+      "wikidata_label_it": "provincia di Verona",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Verona"
+    }
+  ],
+  "VS": [
+    {
+      "definition_it": "Provincia di Medio Campidano",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "117",
+      "province_name_it": "Medio Campidano",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16207",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16207",
+      "wikidata_label_it": "provincia del Medio Campidano",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_del_Medio_Campidano"
+    }
+  ],
+  "VT": [
+    {
+      "definition_it": "Provincia di Viterbo",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "056",
+      "province_name_it": "Viterbo",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16318",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16318",
+      "wikidata_label_it": "provincia di Viterbo",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Viterbo"
+    }
+  ],
+  "VV": [
+    {
+      "definition_it": "Provincia di Vibo Valentia",
+      "definition_it_source": "ISTAT",
+      "istat_province_code": "102",
+      "province_name_it": "Vibo Valentia",
+      "province_name_it_source": "ISTAT",
+      "administrative_unit_type_it": "Provincia",
+      "administrative_unit_type_code": "1",
+      "administrative_unit_type_source": "ISTAT",
+      "wikidata_id": "Q16315",
+      "wikidata_url": "http://www.wikidata.org/entity/Q16315",
+      "wikidata_label_it": "provincia di Vibo Valentia",
+      "wikidata_instance_of_it": "provincia d'Italia",
+      "wikidata_instance_of_url": "http://www.wikidata.org/entity/Q15089",
+      "wikipedia_it_url": "https://it.wikipedia.org/wiki/Provincia_di_Vibo_Valentia"
+    }
+  ]
+}

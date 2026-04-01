@@ -1,0 +1,1511 @@
+{
+  "_meta": {
+    "build_date": "2026-04-01T20:46:10+00:00",
+    "content_hash": "e4b2eba1aa3c4e461aaf44cc7fd02120ee03d953cbee5a34c7b90e789a25e436"
+  },
+  "zero": {
+    "definition_it": "Numero cardinale che esprime la quantità nulla (Zero). Elemento neutro dell'addizione, precede il uno.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Zero",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/0"
+  },
+  "uno": {
+    "definition_it": "Numero cardinale che esprime la quantità di 1 (Uno). Segue lo zero e precede il due.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/1_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/1"
+  },
+  "primo": {
+    "definition_it": "Numero ordinale che indica la posizione 1 in una serie ordinata (Primo). Occupa la prima posizione assoluta.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/1_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/1"
+  },
+  "I": {
+    "definition_it": "Numero romano che rappresenta il valore 1 (I). Notazione usata nell'antico sistema numerico romano. Primo numero della sequenza, precede II.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/1_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/1"
+  },
+  "due": {
+    "definition_it": "Numero cardinale che esprime la quantità di 2 (Due). Nella sequenza dei numeri naturali, segue il uno e precede il tre.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/2_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/2"
+  },
+  "secondo": {
+    "definition_it": "Numero ordinale che indica la posizione 2 in una serie ordinata (Secondo). Segue il primo e precede il terzo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/2_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/2"
+  },
+  "II": {
+    "definition_it": "Numero romano che rappresenta il valore 2 (II). Notazione usata nell'antico sistema numerico romano. Segue I e precede III.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/2_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/2"
+  },
+  "tre": {
+    "definition_it": "Numero cardinale che esprime la quantità di 3 (Tre). Nella sequenza dei numeri naturali, segue il due e precede il quattro.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/3_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/3"
+  },
+  "terzo": {
+    "definition_it": "Numero ordinale che indica la posizione 3 in una serie ordinata (Terzo). Segue il secondo e precede il quarto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/3_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/3"
+  },
+  "III": {
+    "definition_it": "Numero romano che rappresenta il valore 3 (III). Notazione usata nell'antico sistema numerico romano. Segue II e precede IV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/3_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/3"
+  },
+  "quattro": {
+    "definition_it": "Numero cardinale che esprime la quantità di 4 (Quattro). Nella sequenza dei numeri naturali, segue il tre e precede il cinque.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/4_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/4"
+  },
+  "quarto": {
+    "definition_it": "Numero ordinale che indica la posizione 4 in una serie ordinata (Quarto). Segue il terzo e precede il quinto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/4_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/4"
+  },
+  "IV": {
+    "definition_it": "Numero romano che rappresenta il valore 4 (IV). Notazione usata nell'antico sistema numerico romano. Segue III e precede V.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/4_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/4"
+  },
+  "cinque": {
+    "definition_it": "Numero cardinale che esprime la quantità di 5 (Cinque). Nella sequenza dei numeri naturali, segue il quattro e precede il sei.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/5_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/5"
+  },
+  "quinto": {
+    "definition_it": "Numero ordinale che indica la posizione 5 in una serie ordinata (Quinto). Segue il quarto e precede il sesto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/5_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/5"
+  },
+  "V": {
+    "definition_it": "Numero romano che rappresenta il valore 5 (V). Notazione usata nell'antico sistema numerico romano. Segue IV e precede VI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/5_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/5"
+  },
+  "sei": {
+    "definition_it": "Numero cardinale che esprime la quantità di 6 (Sei). Nella sequenza dei numeri naturali, segue il cinque e precede il sette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/6_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/6"
+  },
+  "sesto": {
+    "definition_it": "Numero ordinale che indica la posizione 6 in una serie ordinata (Sesto). Segue il quinto e precede il settimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/6_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/6"
+  },
+  "VI": {
+    "definition_it": "Numero romano che rappresenta il valore 6 (VI). Notazione usata nell'antico sistema numerico romano. Segue V e precede VII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/6_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/6"
+  },
+  "sette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 7 (Sette). Nella sequenza dei numeri naturali, segue il sei e precede il otto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/7_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/7"
+  },
+  "settimo": {
+    "definition_it": "Numero ordinale che indica la posizione 7 in una serie ordinata (Settimo). Segue il sesto e precede il ottavo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/7_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/7"
+  },
+  "VII": {
+    "definition_it": "Numero romano che rappresenta il valore 7 (VII). Notazione usata nell'antico sistema numerico romano. Segue VI e precede VIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/7_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/7"
+  },
+  "otto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 8 (Otto). Nella sequenza dei numeri naturali, segue il sette e precede il nove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/8_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/8"
+  },
+  "ottavo": {
+    "definition_it": "Numero ordinale che indica la posizione 8 in una serie ordinata (Ottavo). Segue il settimo e precede il nono.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/8_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/8"
+  },
+  "VIII": {
+    "definition_it": "Numero romano che rappresenta il valore 8 (VIII). Notazione usata nell'antico sistema numerico romano. Segue VII e precede IX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/8_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/8"
+  },
+  "nove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 9 (Nove). Nella sequenza dei numeri naturali, segue il otto e precede il dieci.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/9_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/9"
+  },
+  "nono": {
+    "definition_it": "Numero ordinale che indica la posizione 9 in una serie ordinata (Nono). Segue il ottavo e precede il decimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/9_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/9"
+  },
+  "IX": {
+    "definition_it": "Numero romano che rappresenta il valore 9 (IX). Notazione usata nell'antico sistema numerico romano. Segue VIII e precede X.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/9_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/9"
+  },
+  "dieci": {
+    "definition_it": "Numero cardinale che esprime la quantità di 10 (Dieci). Nella sequenza dei numeri naturali, segue il nove e precede il undici.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/10_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/10"
+  },
+  "decimo": {
+    "definition_it": "Numero ordinale che indica la posizione 10 in una serie ordinata (Decimo). Segue il nono e precede il undicesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/10_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/10"
+  },
+  "X": {
+    "definition_it": "Numero romano che rappresenta il valore 10 (X). Notazione usata nell'antico sistema numerico romano. Segue IX e precede XI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/10_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/10"
+  },
+  "undici": {
+    "definition_it": "Numero cardinale che esprime la quantità di 11 (Undici). Nella sequenza dei numeri naturali, segue il dieci e precede il dodici.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/11_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/11"
+  },
+  "undicesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 11 in una serie ordinata (Undicesimo). Segue il decimo e precede il dodicesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/11_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/11"
+  },
+  "XI": {
+    "definition_it": "Numero romano che rappresenta il valore 11 (XI). Notazione usata nell'antico sistema numerico romano. Segue X e precede XII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/11_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/11"
+  },
+  "dodici": {
+    "definition_it": "Numero cardinale che esprime la quantità di 12 (Dodici). Nella sequenza dei numeri naturali, segue il undici e precede il tredici.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/12_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/12"
+  },
+  "dodicesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 12 in una serie ordinata (Dodicesimo). Segue il undicesimo e precede il tredicesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/12_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/12"
+  },
+  "XII": {
+    "definition_it": "Numero romano che rappresenta il valore 12 (XII). Notazione usata nell'antico sistema numerico romano. Segue XI e precede XIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/12_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/12"
+  },
+  "tredici": {
+    "definition_it": "Numero cardinale che esprime la quantità di 13 (Tredici). Nella sequenza dei numeri naturali, segue il dodici e precede il quattordici.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/13_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/13"
+  },
+  "tredicesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 13 in una serie ordinata (Tredicesimo). Segue il dodicesimo e precede il quattordicesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/13_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/13"
+  },
+  "XIII": {
+    "definition_it": "Numero romano che rappresenta il valore 13 (XIII). Notazione usata nell'antico sistema numerico romano. Segue XII e precede XIV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/13_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/13"
+  },
+  "quattordici": {
+    "definition_it": "Numero cardinale che esprime la quantità di 14 (Quattordici). Nella sequenza dei numeri naturali, segue il tredici e precede il quindici.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/14_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/14"
+  },
+  "quattordicesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 14 in una serie ordinata (Quattordicesimo). Segue il tredicesimo e precede il quindicesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/14_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/14"
+  },
+  "XIV": {
+    "definition_it": "Numero romano che rappresenta il valore 14 (XIV). Notazione usata nell'antico sistema numerico romano. Segue XIII e precede XV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/14_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/14"
+  },
+  "quindici": {
+    "definition_it": "Numero cardinale che esprime la quantità di 15 (Quindici). Nella sequenza dei numeri naturali, segue il quattordici e precede il sedici.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/15_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/15"
+  },
+  "quindicesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 15 in una serie ordinata (Quindicesimo). Segue il quattordicesimo e precede il sedicesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/15_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/15"
+  },
+  "XV": {
+    "definition_it": "Numero romano che rappresenta il valore 15 (XV). Notazione usata nell'antico sistema numerico romano. Segue XIV e precede XVI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/15_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/15"
+  },
+  "sedici": {
+    "definition_it": "Numero cardinale che esprime la quantità di 16 (Sedici). Nella sequenza dei numeri naturali, segue il quindici e precede il diciassette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/16_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/16"
+  },
+  "sedicesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 16 in una serie ordinata (Sedicesimo). Segue il quindicesimo e precede il diciassettesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/16_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/16"
+  },
+  "XVI": {
+    "definition_it": "Numero romano che rappresenta il valore 16 (XVI). Notazione usata nell'antico sistema numerico romano. Segue XV e precede XVII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/16_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/16"
+  },
+  "diciassette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 17 (Diciassette). Nella sequenza dei numeri naturali, segue il sedici e precede il diciotto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/17_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/17"
+  },
+  "diciassettesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 17 in una serie ordinata (Diciassettesimo). Segue il sedicesimo e precede il diciottesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/17_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/17"
+  },
+  "XVII": {
+    "definition_it": "Numero romano che rappresenta il valore 17 (XVII). Notazione usata nell'antico sistema numerico romano. Segue XVI e precede XVIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/17_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/17"
+  },
+  "diciotto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 18 (Diciotto). Nella sequenza dei numeri naturali, segue il diciassette e precede il diciannove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/18_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/18"
+  },
+  "diciottesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 18 in una serie ordinata (Diciottesimo). Segue il diciassettesimo e precede il diciannovesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/18_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/18"
+  },
+  "XVIII": {
+    "definition_it": "Numero romano che rappresenta il valore 18 (XVIII). Notazione usata nell'antico sistema numerico romano. Segue XVII e precede XIX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/18_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/18"
+  },
+  "diciannove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 19 (Diciannove). Nella sequenza dei numeri naturali, segue il diciotto e precede il venti.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/19_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/19"
+  },
+  "diciannovesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 19 in una serie ordinata (Diciannovesimo). Segue il diciottesimo e precede il ventesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/19_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/19"
+  },
+  "XIX": {
+    "definition_it": "Numero romano che rappresenta il valore 19 (XIX). Notazione usata nell'antico sistema numerico romano. Segue XVIII e precede XX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/19_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/19"
+  },
+  "venti": {
+    "definition_it": "Numero cardinale che esprime la quantità di 20 (Venti). Nella sequenza dei numeri naturali, segue il diciannove e precede il ventuno.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/20_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/20"
+  },
+  "ventesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 20 in una serie ordinata (Ventesimo). Segue il diciannovesimo e precede il ventunesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/20_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/20"
+  },
+  "XX": {
+    "definition_it": "Numero romano che rappresenta il valore 20 (XX). Notazione usata nell'antico sistema numerico romano. Segue XIX e precede XXI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/20_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/20"
+  },
+  "ventuno": {
+    "definition_it": "Numero cardinale che esprime la quantità di 21 (Ventuno). Nella sequenza dei numeri naturali, segue il venti e precede il ventidue.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/21_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/21"
+  },
+  "ventunesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 21 in una serie ordinata (Ventunesimo). Segue il ventesimo e precede il ventiduesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/21_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/21"
+  },
+  "XXI": {
+    "definition_it": "Numero romano che rappresenta il valore 21 (XXI). Notazione usata nell'antico sistema numerico romano. Segue XX e precede XXII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/21_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/21"
+  },
+  "ventidue": {
+    "definition_it": "Numero cardinale che esprime la quantità di 22 (Ventidue). Nella sequenza dei numeri naturali, segue il ventuno e precede il ventitré.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/22_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/22"
+  },
+  "ventiduesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 22 in una serie ordinata (Ventiduesimo). Segue il ventunesimo e precede il ventitreesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/22_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/22"
+  },
+  "XXII": {
+    "definition_it": "Numero romano che rappresenta il valore 22 (XXII). Notazione usata nell'antico sistema numerico romano. Segue XXI e precede XXIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/22_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/22"
+  },
+  "ventitré": {
+    "definition_it": "Numero cardinale che esprime la quantità di 23 (Ventitré). Nella sequenza dei numeri naturali, segue il ventidue e precede il ventiquattro.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/23_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/23"
+  },
+  "ventitreesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 23 in una serie ordinata (Ventitreesimo). Segue il ventiduesimo e precede il ventiquattresimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/23_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/23"
+  },
+  "XXIII": {
+    "definition_it": "Numero romano che rappresenta il valore 23 (XXIII). Notazione usata nell'antico sistema numerico romano. Segue XXII e precede XXIV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/23_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/23"
+  },
+  "ventiquattro": {
+    "definition_it": "Numero cardinale che esprime la quantità di 24 (Ventiquattro). Nella sequenza dei numeri naturali, segue il ventitré e precede il venticinque.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/24_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/24"
+  },
+  "ventiquattresimo": {
+    "definition_it": "Numero ordinale che indica la posizione 24 in una serie ordinata (Ventiquattresimo). Segue il ventitreesimo e precede il venticinquesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/24_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/24"
+  },
+  "XXIV": {
+    "definition_it": "Numero romano che rappresenta il valore 24 (XXIV). Notazione usata nell'antico sistema numerico romano. Segue XXIII e precede XXV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/24_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/24"
+  },
+  "venticinque": {
+    "definition_it": "Numero cardinale che esprime la quantità di 25 (Venticinque). Nella sequenza dei numeri naturali, segue il ventiquattro e precede il ventisei.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/25_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/25"
+  },
+  "venticinquesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 25 in una serie ordinata (Venticinquesimo). Segue il ventiquattresimo e precede il ventiseiesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/25_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/25"
+  },
+  "XXV": {
+    "definition_it": "Numero romano che rappresenta il valore 25 (XXV). Notazione usata nell'antico sistema numerico romano. Segue XXIV e precede XXVI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/25_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/25"
+  },
+  "ventisei": {
+    "definition_it": "Numero cardinale che esprime la quantità di 26 (Ventisei). Nella sequenza dei numeri naturali, segue il venticinque e precede il ventisette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/26_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/26"
+  },
+  "ventiseiesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 26 in una serie ordinata (Ventiseiesimo). Segue il venticinquesimo e precede il ventisettesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/26_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/26"
+  },
+  "XXVI": {
+    "definition_it": "Numero romano che rappresenta il valore 26 (XXVI). Notazione usata nell'antico sistema numerico romano. Segue XXV e precede XXVII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/26_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/26"
+  },
+  "ventisette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 27 (Ventisette). Nella sequenza dei numeri naturali, segue il ventisei e precede il ventotto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/27_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/27"
+  },
+  "ventisettesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 27 in una serie ordinata (Ventisettesimo). Segue il ventiseiesimo e precede il ventottesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/27_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/27"
+  },
+  "XXVII": {
+    "definition_it": "Numero romano che rappresenta il valore 27 (XXVII). Notazione usata nell'antico sistema numerico romano. Segue XXVI e precede XXVIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/27_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/27"
+  },
+  "ventotto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 28 (Ventotto). Nella sequenza dei numeri naturali, segue il ventisette e precede il ventinove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/28_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/28"
+  },
+  "ventottesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 28 in una serie ordinata (Ventottesimo). Segue il ventisettesimo e precede il ventinovesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/28_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/28"
+  },
+  "XXVIII": {
+    "definition_it": "Numero romano che rappresenta il valore 28 (XXVIII). Notazione usata nell'antico sistema numerico romano. Segue XXVII e precede XXIX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/28_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/28"
+  },
+  "ventinove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 29 (Ventinove). Nella sequenza dei numeri naturali, segue il ventotto e precede il trenta.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/29_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/29"
+  },
+  "ventinovesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 29 in una serie ordinata (Ventinovesimo). Segue il ventottesimo e precede il trentesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/29_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/29"
+  },
+  "XXIX": {
+    "definition_it": "Numero romano che rappresenta il valore 29 (XXIX). Notazione usata nell'antico sistema numerico romano. Segue XXVIII e precede XXX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/29_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/29"
+  },
+  "trenta": {
+    "definition_it": "Numero cardinale che esprime la quantità di 30 (Trenta). Nella sequenza dei numeri naturali, segue il ventinove e precede il trentuno.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/30_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/30"
+  },
+  "trentesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 30 in una serie ordinata (Trentesimo). Segue il ventinovesimo e precede il trentunesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/30_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/30"
+  },
+  "XXX": {
+    "definition_it": "Numero romano che rappresenta il valore 30 (XXX). Notazione usata nell'antico sistema numerico romano. Segue XXIX e precede XXXI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/30_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/30"
+  },
+  "trentuno": {
+    "definition_it": "Numero cardinale che esprime la quantità di 31 (Trentuno). Nella sequenza dei numeri naturali, segue il trenta e precede il trentadue.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/31_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/31"
+  },
+  "trentunesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 31 in una serie ordinata (Trentunesimo). Segue il trentesimo e precede il trentaduesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/31_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/31"
+  },
+  "XXXI": {
+    "definition_it": "Numero romano che rappresenta il valore 31 (XXXI). Notazione usata nell'antico sistema numerico romano. Segue XXX e precede XXXII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/31_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/31"
+  },
+  "trentadue": {
+    "definition_it": "Numero cardinale che esprime la quantità di 32 (Trentadue). Nella sequenza dei numeri naturali, segue il trentuno e precede il trentatré.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/32_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/32"
+  },
+  "trentaduesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 32 in una serie ordinata (Trentaduesimo). Segue il trentunesimo e precede il trentatreesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/32_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/32"
+  },
+  "XXXII": {
+    "definition_it": "Numero romano che rappresenta il valore 32 (XXXII). Notazione usata nell'antico sistema numerico romano. Segue XXXI e precede XXXIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/32_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/32"
+  },
+  "trentatré": {
+    "definition_it": "Numero cardinale che esprime la quantità di 33 (Trentatré). Nella sequenza dei numeri naturali, segue il trentadue e precede il trentaquattro.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/33_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/33"
+  },
+  "trentatreesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 33 in una serie ordinata (Trentatreesimo). Segue il trentaduesimo e precede il trentaquattresimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/33_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/33"
+  },
+  "XXXIII": {
+    "definition_it": "Numero romano che rappresenta il valore 33 (XXXIII). Notazione usata nell'antico sistema numerico romano. Segue XXXII e precede XXXIV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/33_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/33"
+  },
+  "trentaquattro": {
+    "definition_it": "Numero cardinale che esprime la quantità di 34 (Trentaquattro). Nella sequenza dei numeri naturali, segue il trentatré e precede il trentacinque.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/34_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/34"
+  },
+  "trentaquattresimo": {
+    "definition_it": "Numero ordinale che indica la posizione 34 in una serie ordinata (Trentaquattresimo). Segue il trentatreesimo e precede il trentacinquesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/34_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/34"
+  },
+  "XXXIV": {
+    "definition_it": "Numero romano che rappresenta il valore 34 (XXXIV). Notazione usata nell'antico sistema numerico romano. Segue XXXIII e precede XXXV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/34_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/34"
+  },
+  "trentacinque": {
+    "definition_it": "Numero cardinale che esprime la quantità di 35 (Trentacinque). Nella sequenza dei numeri naturali, segue il trentaquattro e precede il trentasei.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/35_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/35"
+  },
+  "trentacinquesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 35 in una serie ordinata (Trentacinquesimo). Segue il trentaquattresimo e precede il trentaseiesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/35_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/35"
+  },
+  "XXXV": {
+    "definition_it": "Numero romano che rappresenta il valore 35 (XXXV). Notazione usata nell'antico sistema numerico romano. Segue XXXIV e precede XXXVI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/35_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/35"
+  },
+  "trentasei": {
+    "definition_it": "Numero cardinale che esprime la quantità di 36 (Trentasei). Nella sequenza dei numeri naturali, segue il trentacinque e precede il trentasette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/36_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/36"
+  },
+  "trentaseiesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 36 in una serie ordinata (Trentaseiesimo). Segue il trentacinquesimo e precede il trentasettesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/36_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/36"
+  },
+  "XXXVI": {
+    "definition_it": "Numero romano che rappresenta il valore 36 (XXXVI). Notazione usata nell'antico sistema numerico romano. Segue XXXV e precede XXXVII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/36_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/36"
+  },
+  "trentasette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 37 (Trentasette). Nella sequenza dei numeri naturali, segue il trentasei e precede il trentotto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/37_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/37"
+  },
+  "trentasettesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 37 in una serie ordinata (Trentasettesimo). Segue il trentaseiesimo e precede il trentottesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/37_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/37"
+  },
+  "XXXVII": {
+    "definition_it": "Numero romano che rappresenta il valore 37 (XXXVII). Notazione usata nell'antico sistema numerico romano. Segue XXXVI e precede XXXVIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/37_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/37"
+  },
+  "trentotto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 38 (Trentotto). Nella sequenza dei numeri naturali, segue il trentasette e precede il trentanove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/38_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/38"
+  },
+  "trentottesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 38 in una serie ordinata (Trentottesimo). Segue il trentasettesimo e precede il trentanovesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/38_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/38"
+  },
+  "XXXVIII": {
+    "definition_it": "Numero romano che rappresenta il valore 38 (XXXVIII). Notazione usata nell'antico sistema numerico romano. Segue XXXVII e precede XXXIX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/38_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/38"
+  },
+  "trentanove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 39 (Trentanove). Nella sequenza dei numeri naturali, segue il trentotto e precede il quaranta.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/39_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/39"
+  },
+  "trentanovesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 39 in una serie ordinata (Trentanovesimo). Segue il trentottesimo e precede il quarantesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/39_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/39"
+  },
+  "XXXIX": {
+    "definition_it": "Numero romano che rappresenta il valore 39 (XXXIX). Notazione usata nell'antico sistema numerico romano. Segue XXXVIII e precede XL.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/39_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/39"
+  },
+  "quaranta": {
+    "definition_it": "Numero cardinale che esprime la quantità di 40 (Quaranta). Nella sequenza dei numeri naturali, segue il trentanove e precede il quarantuno.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/40_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/40"
+  },
+  "quarantesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 40 in una serie ordinata (Quarantesimo). Segue il trentanovesimo e precede il quarantunesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/40_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/40"
+  },
+  "XL": {
+    "definition_it": "Numero romano che rappresenta il valore 40 (XL). Notazione usata nell'antico sistema numerico romano. Segue XXXIX e precede XLI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/40_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/40"
+  },
+  "quarantuno": {
+    "definition_it": "Numero cardinale che esprime la quantità di 41 (Quarantuno). Nella sequenza dei numeri naturali, segue il quaranta e precede il quarantadue.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/41_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/41"
+  },
+  "quarantunesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 41 in una serie ordinata (Quarantunesimo). Segue il quarantesimo e precede il quarantaduesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/41_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/41"
+  },
+  "XLI": {
+    "definition_it": "Numero romano che rappresenta il valore 41 (XLI). Notazione usata nell'antico sistema numerico romano. Segue XL e precede XLII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/41_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/41"
+  },
+  "quarantadue": {
+    "definition_it": "Numero cardinale che esprime la quantità di 42 (Quarantadue). Nella sequenza dei numeri naturali, segue il quarantuno e precede il quarantatré.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/42_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/42"
+  },
+  "quarantaduesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 42 in una serie ordinata (Quarantaduesimo). Segue il quarantunesimo e precede il quarantatreesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/42_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/42"
+  },
+  "XLII": {
+    "definition_it": "Numero romano che rappresenta il valore 42 (XLII). Notazione usata nell'antico sistema numerico romano. Segue XLI e precede XLIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/42_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/42"
+  },
+  "quarantatré": {
+    "definition_it": "Numero cardinale che esprime la quantità di 43 (Quarantatré). Nella sequenza dei numeri naturali, segue il quarantadue e precede il quarantaquattro.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/43_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/43"
+  },
+  "quarantatreesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 43 in una serie ordinata (Quarantatreesimo). Segue il quarantaduesimo e precede il quarantaquattresimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/43_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/43"
+  },
+  "XLIII": {
+    "definition_it": "Numero romano che rappresenta il valore 43 (XLIII). Notazione usata nell'antico sistema numerico romano. Segue XLII e precede XLIV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/43_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/43"
+  },
+  "quarantaquattro": {
+    "definition_it": "Numero cardinale che esprime la quantità di 44 (Quarantaquattro). Nella sequenza dei numeri naturali, segue il quarantatré e precede il quarantacinque.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/44_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/44"
+  },
+  "quarantaquattresimo": {
+    "definition_it": "Numero ordinale che indica la posizione 44 in una serie ordinata (Quarantaquattresimo). Segue il quarantatreesimo e precede il quarantacinquesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/44_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/44"
+  },
+  "XLIV": {
+    "definition_it": "Numero romano che rappresenta il valore 44 (XLIV). Notazione usata nell'antico sistema numerico romano. Segue XLIII e precede XLV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/44_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/44"
+  },
+  "quarantacinque": {
+    "definition_it": "Numero cardinale che esprime la quantità di 45 (Quarantacinque). Nella sequenza dei numeri naturali, segue il quarantaquattro e precede il quarantasei.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/45_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/45"
+  },
+  "quarantacinquesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 45 in una serie ordinata (Quarantacinquesimo). Segue il quarantaquattresimo e precede il quarantaseiesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/45_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/45"
+  },
+  "XLV": {
+    "definition_it": "Numero romano che rappresenta il valore 45 (XLV). Notazione usata nell'antico sistema numerico romano. Segue XLIV e precede XLVI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/45_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/45"
+  },
+  "quarantasei": {
+    "definition_it": "Numero cardinale che esprime la quantità di 46 (Quarantasei). Nella sequenza dei numeri naturali, segue il quarantacinque e precede il quarantasette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/46_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/46"
+  },
+  "quarantaseiesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 46 in una serie ordinata (Quarantaseiesimo). Segue il quarantacinquesimo e precede il quarantasettesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/46_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/46"
+  },
+  "XLVI": {
+    "definition_it": "Numero romano che rappresenta il valore 46 (XLVI). Notazione usata nell'antico sistema numerico romano. Segue XLV e precede XLVII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/46_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/46"
+  },
+  "quarantasette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 47 (Quarantasette). Nella sequenza dei numeri naturali, segue il quarantasei e precede il quarantotto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/47_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/47"
+  },
+  "quarantasettesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 47 in una serie ordinata (Quarantasettesimo). Segue il quarantaseiesimo e precede il quarantottesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/47_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/47"
+  },
+  "XLVII": {
+    "definition_it": "Numero romano che rappresenta il valore 47 (XLVII). Notazione usata nell'antico sistema numerico romano. Segue XLVI e precede XLVIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/47_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/47"
+  },
+  "quarantotto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 48 (Quarantotto). Nella sequenza dei numeri naturali, segue il quarantasette e precede il quarantanove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/48_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/48"
+  },
+  "quarantottesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 48 in una serie ordinata (Quarantottesimo). Segue il quarantasettesimo e precede il quarantanovesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/48_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/48"
+  },
+  "XLVIII": {
+    "definition_it": "Numero romano che rappresenta il valore 48 (XLVIII). Notazione usata nell'antico sistema numerico romano. Segue XLVII e precede XLIX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/48_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/48"
+  },
+  "quarantanove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 49 (Quarantanove). Nella sequenza dei numeri naturali, segue il quarantotto e precede il cinquanta.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/49_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/49"
+  },
+  "quarantanovesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 49 in una serie ordinata (Quarantanovesimo). Segue il quarantottesimo e precede il cinquantesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/49_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/49"
+  },
+  "XLIX": {
+    "definition_it": "Numero romano che rappresenta il valore 49 (XLIX). Notazione usata nell'antico sistema numerico romano. Segue XLVIII e precede L.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/49_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/49"
+  },
+  "cinquanta": {
+    "definition_it": "Numero cardinale che esprime la quantità di 50 (Cinquanta). Nella sequenza dei numeri naturali, segue il quarantanove e precede il cinquantuno.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/50_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/50"
+  },
+  "cinquantesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 50 in una serie ordinata (Cinquantesimo). Segue il quarantanovesimo e precede il cinquantunesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/50_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/50"
+  },
+  "L": {
+    "definition_it": "Numero romano che rappresenta il valore 50 (L). Notazione usata nell'antico sistema numerico romano. Segue XLIX e precede LI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/50_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/50"
+  },
+  "cinquantuno": {
+    "definition_it": "Numero cardinale che esprime la quantità di 51 (Cinquantuno). Nella sequenza dei numeri naturali, segue il cinquanta e precede il cinquantadue.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/51_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/51"
+  },
+  "cinquantunesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 51 in una serie ordinata (Cinquantunesimo). Segue il cinquantesimo e precede il cinquantaduesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/51_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/51"
+  },
+  "LI": {
+    "definition_it": "Numero romano che rappresenta il valore 51 (LI). Notazione usata nell'antico sistema numerico romano. Segue L e precede LII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/51_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/51"
+  },
+  "cinquantadue": {
+    "definition_it": "Numero cardinale che esprime la quantità di 52 (Cinquantadue). Nella sequenza dei numeri naturali, segue il cinquantuno e precede il cinquantatré.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/52_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/52"
+  },
+  "cinquantaduesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 52 in una serie ordinata (Cinquantaduesimo). Segue il cinquantunesimo e precede il cinquantatreesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/52_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/52"
+  },
+  "LII": {
+    "definition_it": "Numero romano che rappresenta il valore 52 (LII). Notazione usata nell'antico sistema numerico romano. Segue LI e precede LIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/52_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/52"
+  },
+  "cinquantatré": {
+    "definition_it": "Numero cardinale che esprime la quantità di 53 (Cinquantatré). Nella sequenza dei numeri naturali, segue il cinquantadue e precede il cinquantaquattro.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/53_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/53"
+  },
+  "cinquantatreesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 53 in una serie ordinata (Cinquantatreesimo). Segue il cinquantaduesimo e precede il cinquantaquattresimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/53_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/53"
+  },
+  "LIII": {
+    "definition_it": "Numero romano che rappresenta il valore 53 (LIII). Notazione usata nell'antico sistema numerico romano. Segue LII e precede LIV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/53_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/53"
+  },
+  "cinquantaquattro": {
+    "definition_it": "Numero cardinale che esprime la quantità di 54 (Cinquantaquattro). Nella sequenza dei numeri naturali, segue il cinquantatré e precede il cinquantacinque.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/54_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/54"
+  },
+  "cinquantaquattresimo": {
+    "definition_it": "Numero ordinale che indica la posizione 54 in una serie ordinata (Cinquantaquattresimo). Segue il cinquantatreesimo e precede il cinquantacinquesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/54_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/54"
+  },
+  "LIV": {
+    "definition_it": "Numero romano che rappresenta il valore 54 (LIV). Notazione usata nell'antico sistema numerico romano. Segue LIII e precede LV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/54_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/54"
+  },
+  "cinquantacinque": {
+    "definition_it": "Numero cardinale che esprime la quantità di 55 (Cinquantacinque). Nella sequenza dei numeri naturali, segue il cinquantaquattro e precede il cinquantasei.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/55_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/55"
+  },
+  "cinquantacinquesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 55 in una serie ordinata (Cinquantacinquesimo). Segue il cinquantaquattresimo e precede il cinquantaseiesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/55_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/55"
+  },
+  "LV": {
+    "definition_it": "Numero romano che rappresenta il valore 55 (LV). Notazione usata nell'antico sistema numerico romano. Segue LIV e precede LVI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/55_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/55"
+  },
+  "cinquantasei": {
+    "definition_it": "Numero cardinale che esprime la quantità di 56 (Cinquantasei). Nella sequenza dei numeri naturali, segue il cinquantacinque e precede il cinquantasette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/56_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/56"
+  },
+  "cinquantaseiesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 56 in una serie ordinata (Cinquantaseiesimo). Segue il cinquantacinquesimo e precede il cinquantasettesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/56_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/56"
+  },
+  "LVI": {
+    "definition_it": "Numero romano che rappresenta il valore 56 (LVI). Notazione usata nell'antico sistema numerico romano. Segue LV e precede LVII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/56_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/56"
+  },
+  "cinquantasette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 57 (Cinquantasette). Nella sequenza dei numeri naturali, segue il cinquantasei e precede il cinquantotto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/57_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/57"
+  },
+  "cinquantasettesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 57 in una serie ordinata (Cinquantasettesimo). Segue il cinquantaseiesimo e precede il cinquantottesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/57_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/57"
+  },
+  "LVII": {
+    "definition_it": "Numero romano che rappresenta il valore 57 (LVII). Notazione usata nell'antico sistema numerico romano. Segue LVI e precede LVIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/57_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/57"
+  },
+  "cinquantotto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 58 (Cinquantotto). Nella sequenza dei numeri naturali, segue il cinquantasette e precede il cinquantanove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/58_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/58"
+  },
+  "cinquantottesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 58 in una serie ordinata (Cinquantottesimo). Segue il cinquantasettesimo e precede il cinquantanovesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/58_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/58"
+  },
+  "LVIII": {
+    "definition_it": "Numero romano che rappresenta il valore 58 (LVIII). Notazione usata nell'antico sistema numerico romano. Segue LVII e precede LIX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/58_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/58"
+  },
+  "cinquantanove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 59 (Cinquantanove). Nella sequenza dei numeri naturali, segue il cinquantotto e precede il sessanta.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/59_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/59"
+  },
+  "cinquantanovesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 59 in una serie ordinata (Cinquantanovesimo). Segue il cinquantottesimo e precede il sessantesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/59_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/59"
+  },
+  "LIX": {
+    "definition_it": "Numero romano che rappresenta il valore 59 (LIX). Notazione usata nell'antico sistema numerico romano. Segue LVIII e precede LX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/59_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/59"
+  },
+  "sessanta": {
+    "definition_it": "Numero cardinale che esprime la quantità di 60 (Sessanta). Nella sequenza dei numeri naturali, segue il cinquantanove e precede il sessantuno.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/60_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/60"
+  },
+  "sessantesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 60 in una serie ordinata (Sessantesimo). Segue il cinquantanovesimo e precede il sessantunesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/60_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/60"
+  },
+  "LX": {
+    "definition_it": "Numero romano che rappresenta il valore 60 (LX). Notazione usata nell'antico sistema numerico romano. Segue LIX e precede LXI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/60_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/60"
+  },
+  "sessantuno": {
+    "definition_it": "Numero cardinale che esprime la quantità di 61 (Sessantuno). Nella sequenza dei numeri naturali, segue il sessanta e precede il sessantadue.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/61_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/61"
+  },
+  "sessantunesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 61 in una serie ordinata (Sessantunesimo). Segue il sessantesimo e precede il sessantaduesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/61_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/61"
+  },
+  "LXI": {
+    "definition_it": "Numero romano che rappresenta il valore 61 (LXI). Notazione usata nell'antico sistema numerico romano. Segue LX e precede LXII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/61_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/61"
+  },
+  "sessantadue": {
+    "definition_it": "Numero cardinale che esprime la quantità di 62 (Sessantadue). Nella sequenza dei numeri naturali, segue il sessantuno e precede il sessantatré.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/62_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/62"
+  },
+  "sessantaduesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 62 in una serie ordinata (Sessantaduesimo). Segue il sessantunesimo e precede il sessantatreesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/62_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/62"
+  },
+  "LXII": {
+    "definition_it": "Numero romano che rappresenta il valore 62 (LXII). Notazione usata nell'antico sistema numerico romano. Segue LXI e precede LXIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/62_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/62"
+  },
+  "sessantatré": {
+    "definition_it": "Numero cardinale che esprime la quantità di 63 (Sessantatré). Nella sequenza dei numeri naturali, segue il sessantadue e precede il sessantaquattro.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/63_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/63"
+  },
+  "sessantatreesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 63 in una serie ordinata (Sessantatreesimo). Segue il sessantaduesimo e precede il sessantaquattresimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/63_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/63"
+  },
+  "LXIII": {
+    "definition_it": "Numero romano che rappresenta il valore 63 (LXIII). Notazione usata nell'antico sistema numerico romano. Segue LXII e precede LXIV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/63_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/63"
+  },
+  "sessantaquattro": {
+    "definition_it": "Numero cardinale che esprime la quantità di 64 (Sessantaquattro). Nella sequenza dei numeri naturali, segue il sessantatré e precede il sessantacinque.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/64_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/64"
+  },
+  "sessantaquattresimo": {
+    "definition_it": "Numero ordinale che indica la posizione 64 in una serie ordinata (Sessantaquattresimo). Segue il sessantatreesimo e precede il sessantacinquesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/64_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/64"
+  },
+  "LXIV": {
+    "definition_it": "Numero romano che rappresenta il valore 64 (LXIV). Notazione usata nell'antico sistema numerico romano. Segue LXIII e precede LXV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/64_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/64"
+  },
+  "sessantacinque": {
+    "definition_it": "Numero cardinale che esprime la quantità di 65 (Sessantacinque). Nella sequenza dei numeri naturali, segue il sessantaquattro e precede il sessantasei.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/65_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/65"
+  },
+  "sessantacinquesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 65 in una serie ordinata (Sessantacinquesimo). Segue il sessantaquattresimo e precede il sessantaseiesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/65_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/65"
+  },
+  "LXV": {
+    "definition_it": "Numero romano che rappresenta il valore 65 (LXV). Notazione usata nell'antico sistema numerico romano. Segue LXIV e precede LXVI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/65_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/65"
+  },
+  "sessantasei": {
+    "definition_it": "Numero cardinale che esprime la quantità di 66 (Sessantasei). Nella sequenza dei numeri naturali, segue il sessantacinque e precede il sessantasette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/66_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/66"
+  },
+  "sessantaseiesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 66 in una serie ordinata (Sessantaseiesimo). Segue il sessantacinquesimo e precede il sessantasettesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/66_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/66"
+  },
+  "LXVI": {
+    "definition_it": "Numero romano che rappresenta il valore 66 (LXVI). Notazione usata nell'antico sistema numerico romano. Segue LXV e precede LXVII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/66_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/66"
+  },
+  "sessantasette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 67 (Sessantasette). Nella sequenza dei numeri naturali, segue il sessantasei e precede il sessantotto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/67_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/67"
+  },
+  "sessantasettesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 67 in una serie ordinata (Sessantasettesimo). Segue il sessantaseiesimo e precede il sessantottesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/67_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/67"
+  },
+  "LXVII": {
+    "definition_it": "Numero romano che rappresenta il valore 67 (LXVII). Notazione usata nell'antico sistema numerico romano. Segue LXVI e precede LXVIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/67_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/67"
+  },
+  "sessantotto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 68 (Sessantotto). Nella sequenza dei numeri naturali, segue il sessantasette e precede il sessantanove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/68_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/68"
+  },
+  "sessantottesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 68 in una serie ordinata (Sessantottesimo). Segue il sessantasettesimo e precede il sessantanovesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/68_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/68"
+  },
+  "LXVIII": {
+    "definition_it": "Numero romano che rappresenta il valore 68 (LXVIII). Notazione usata nell'antico sistema numerico romano. Segue LXVII e precede LXIX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/68_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/68"
+  },
+  "sessantanove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 69 (Sessantanove). Nella sequenza dei numeri naturali, segue il sessantotto e precede il settanta.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/69_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/69"
+  },
+  "sessantanovesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 69 in una serie ordinata (Sessantanovesimo). Segue il sessantottesimo e precede il settantesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/69_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/69"
+  },
+  "LXIX": {
+    "definition_it": "Numero romano che rappresenta il valore 69 (LXIX). Notazione usata nell'antico sistema numerico romano. Segue LXVIII e precede LXX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/69_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/69"
+  },
+  "settanta": {
+    "definition_it": "Numero cardinale che esprime la quantità di 70 (Settanta). Nella sequenza dei numeri naturali, segue il sessantanove e precede il settantuno.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/70_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/70"
+  },
+  "settantesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 70 in una serie ordinata (Settantesimo). Segue il sessantanovesimo e precede il settantunesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/70_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/70"
+  },
+  "LXX": {
+    "definition_it": "Numero romano che rappresenta il valore 70 (LXX). Notazione usata nell'antico sistema numerico romano. Segue LXIX e precede LXXI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/70_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/70"
+  },
+  "settantuno": {
+    "definition_it": "Numero cardinale che esprime la quantità di 71 (Settantuno). Nella sequenza dei numeri naturali, segue il settanta e precede il settantadue.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/71_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/71"
+  },
+  "settantunesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 71 in una serie ordinata (Settantunesimo). Segue il settantesimo e precede il settantaduesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/71_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/71"
+  },
+  "LXXI": {
+    "definition_it": "Numero romano che rappresenta il valore 71 (LXXI). Notazione usata nell'antico sistema numerico romano. Segue LXX e precede LXXII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/71_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/71"
+  },
+  "settantadue": {
+    "definition_it": "Numero cardinale che esprime la quantità di 72 (Settantadue). Nella sequenza dei numeri naturali, segue il settantuno e precede il settantatré.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/72_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/72"
+  },
+  "settantaduesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 72 in una serie ordinata (Settantaduesimo). Segue il settantunesimo e precede il settantatreesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/72_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/72"
+  },
+  "LXXII": {
+    "definition_it": "Numero romano che rappresenta il valore 72 (LXXII). Notazione usata nell'antico sistema numerico romano. Segue LXXI e precede LXXIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/72_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/72"
+  },
+  "settantatré": {
+    "definition_it": "Numero cardinale che esprime la quantità di 73 (Settantatré). Nella sequenza dei numeri naturali, segue il settantadue e precede il settantaquattro.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/73_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/73"
+  },
+  "settantatreesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 73 in una serie ordinata (Settantatreesimo). Segue il settantaduesimo e precede il settantaquattresimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/73_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/73"
+  },
+  "LXXIII": {
+    "definition_it": "Numero romano che rappresenta il valore 73 (LXXIII). Notazione usata nell'antico sistema numerico romano. Segue LXXII e precede LXXIV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/73_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/73"
+  },
+  "settantaquattro": {
+    "definition_it": "Numero cardinale che esprime la quantità di 74 (Settantaquattro). Nella sequenza dei numeri naturali, segue il settantatré e precede il settantacinque.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/74_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/74"
+  },
+  "settantaquattresimo": {
+    "definition_it": "Numero ordinale che indica la posizione 74 in una serie ordinata (Settantaquattresimo). Segue il settantatreesimo e precede il settantacinquesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/74_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/74"
+  },
+  "LXXIV": {
+    "definition_it": "Numero romano che rappresenta il valore 74 (LXXIV). Notazione usata nell'antico sistema numerico romano. Segue LXXIII e precede LXXV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/74_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/74"
+  },
+  "settantacinque": {
+    "definition_it": "Numero cardinale che esprime la quantità di 75 (Settantacinque). Nella sequenza dei numeri naturali, segue il settantaquattro e precede il settantasei.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/75_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/75"
+  },
+  "settantacinquesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 75 in una serie ordinata (Settantacinquesimo). Segue il settantaquattresimo e precede il settantaseiesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/75_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/75"
+  },
+  "LXXV": {
+    "definition_it": "Numero romano che rappresenta il valore 75 (LXXV). Notazione usata nell'antico sistema numerico romano. Segue LXXIV e precede LXXVI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/75_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/75"
+  },
+  "settantasei": {
+    "definition_it": "Numero cardinale che esprime la quantità di 76 (Settantasei). Nella sequenza dei numeri naturali, segue il settantacinque e precede il settantasette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/76_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/76"
+  },
+  "settantaseiesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 76 in una serie ordinata (Settantaseiesimo). Segue il settantacinquesimo e precede il settantasettesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/76_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/76"
+  },
+  "LXXVI": {
+    "definition_it": "Numero romano che rappresenta il valore 76 (LXXVI). Notazione usata nell'antico sistema numerico romano. Segue LXXV e precede LXXVII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/76_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/76"
+  },
+  "settantasette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 77 (Settantasette). Nella sequenza dei numeri naturali, segue il settantasei e precede il settantotto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/77_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/77"
+  },
+  "settantasettesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 77 in una serie ordinata (Settantasettesimo). Segue il settantaseiesimo e precede il settantottesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/77_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/77"
+  },
+  "LXXVII": {
+    "definition_it": "Numero romano che rappresenta il valore 77 (LXXVII). Notazione usata nell'antico sistema numerico romano. Segue LXXVI e precede LXXVIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/77_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/77"
+  },
+  "settantotto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 78 (Settantotto). Nella sequenza dei numeri naturali, segue il settantasette e precede il settantanove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/78_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/78"
+  },
+  "settantottesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 78 in una serie ordinata (Settantottesimo). Segue il settantasettesimo e precede il settantanovesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/78_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/78"
+  },
+  "LXXVIII": {
+    "definition_it": "Numero romano che rappresenta il valore 78 (LXXVIII). Notazione usata nell'antico sistema numerico romano. Segue LXXVII e precede LXXIX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/78_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/78"
+  },
+  "settantanove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 79 (Settantanove). Nella sequenza dei numeri naturali, segue il settantotto e precede il ottanta.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/79_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/79"
+  },
+  "settantanovesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 79 in una serie ordinata (Settantanovesimo). Segue il settantottesimo e precede il ottantesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/79_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/79"
+  },
+  "LXXIX": {
+    "definition_it": "Numero romano che rappresenta il valore 79 (LXXIX). Notazione usata nell'antico sistema numerico romano. Segue LXXVIII e precede LXXX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/79_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/79"
+  },
+  "ottanta": {
+    "definition_it": "Numero cardinale che esprime la quantità di 80 (Ottanta). Nella sequenza dei numeri naturali, segue il settantanove e precede il ottantuno.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/80_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/80"
+  },
+  "ottantesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 80 in una serie ordinata (Ottantesimo). Segue il settantanovesimo e precede il ottantunesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/80_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/80"
+  },
+  "LXXX": {
+    "definition_it": "Numero romano che rappresenta il valore 80 (LXXX). Notazione usata nell'antico sistema numerico romano. Segue LXXIX e precede LXXXI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/80_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/80"
+  },
+  "ottantuno": {
+    "definition_it": "Numero cardinale che esprime la quantità di 81 (Ottantuno). Nella sequenza dei numeri naturali, segue il ottanta e precede il ottantadue.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/81_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/81"
+  },
+  "ottantunesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 81 in una serie ordinata (Ottantunesimo). Segue il ottantesimo e precede il ottantaduesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/81_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/81"
+  },
+  "LXXXI": {
+    "definition_it": "Numero romano che rappresenta il valore 81 (LXXXI). Notazione usata nell'antico sistema numerico romano. Segue LXXX e precede LXXXII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/81_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/81"
+  },
+  "ottantadue": {
+    "definition_it": "Numero cardinale che esprime la quantità di 82 (Ottantadue). Nella sequenza dei numeri naturali, segue il ottantuno e precede il ottantatré.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/82_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/82"
+  },
+  "ottantaduesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 82 in una serie ordinata (Ottantaduesimo). Segue il ottantunesimo e precede il ottantatreesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/82_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/82"
+  },
+  "LXXXII": {
+    "definition_it": "Numero romano che rappresenta il valore 82 (LXXXII). Notazione usata nell'antico sistema numerico romano. Segue LXXXI e precede LXXXIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/82_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/82"
+  },
+  "ottantatré": {
+    "definition_it": "Numero cardinale che esprime la quantità di 83 (Ottantatré). Nella sequenza dei numeri naturali, segue il ottantadue e precede il ottantaquattro.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/83_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/83"
+  },
+  "ottantatreesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 83 in una serie ordinata (Ottantatreesimo). Segue il ottantaduesimo e precede il ottantaquattresimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/83_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/83"
+  },
+  "LXXXIII": {
+    "definition_it": "Numero romano che rappresenta il valore 83 (LXXXIII). Notazione usata nell'antico sistema numerico romano. Segue LXXXII e precede LXXXIV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/83_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/83"
+  },
+  "ottantaquattro": {
+    "definition_it": "Numero cardinale che esprime la quantità di 84 (Ottantaquattro). Nella sequenza dei numeri naturali, segue il ottantatré e precede il ottantacinque.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/84_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/84"
+  },
+  "ottantaquattresimo": {
+    "definition_it": "Numero ordinale che indica la posizione 84 in una serie ordinata (Ottantaquattresimo). Segue il ottantatreesimo e precede il ottantacinquesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/84_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/84"
+  },
+  "LXXXIV": {
+    "definition_it": "Numero romano che rappresenta il valore 84 (LXXXIV). Notazione usata nell'antico sistema numerico romano. Segue LXXXIII e precede LXXXV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/84_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/84"
+  },
+  "ottantacinque": {
+    "definition_it": "Numero cardinale che esprime la quantità di 85 (Ottantacinque). Nella sequenza dei numeri naturali, segue il ottantaquattro e precede il ottantasei.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/85_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/85"
+  },
+  "ottantacinquesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 85 in una serie ordinata (Ottantacinquesimo). Segue il ottantaquattresimo e precede il ottantaseiesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/85_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/85"
+  },
+  "LXXXV": {
+    "definition_it": "Numero romano che rappresenta il valore 85 (LXXXV). Notazione usata nell'antico sistema numerico romano. Segue LXXXIV e precede LXXXVI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/85_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/85"
+  },
+  "ottantasei": {
+    "definition_it": "Numero cardinale che esprime la quantità di 86 (Ottantasei). Nella sequenza dei numeri naturali, segue il ottantacinque e precede il ottantasette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/86_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/86"
+  },
+  "ottantaseiesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 86 in una serie ordinata (Ottantaseiesimo). Segue il ottantacinquesimo e precede il ottantasettesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/86_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/86"
+  },
+  "LXXXVI": {
+    "definition_it": "Numero romano che rappresenta il valore 86 (LXXXVI). Notazione usata nell'antico sistema numerico romano. Segue LXXXV e precede LXXXVII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/86_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/86"
+  },
+  "ottantasette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 87 (Ottantasette). Nella sequenza dei numeri naturali, segue il ottantasei e precede il ottantotto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/87_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/87"
+  },
+  "ottantasettesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 87 in una serie ordinata (Ottantasettesimo). Segue il ottantaseiesimo e precede il ottantottesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/87_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/87"
+  },
+  "LXXXVII": {
+    "definition_it": "Numero romano che rappresenta il valore 87 (LXXXVII). Notazione usata nell'antico sistema numerico romano. Segue LXXXVI e precede LXXXVIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/87_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/87"
+  },
+  "ottantotto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 88 (Ottantotto). Nella sequenza dei numeri naturali, segue il ottantasette e precede il ottantanove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/88_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/88"
+  },
+  "ottantottesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 88 in una serie ordinata (Ottantottesimo). Segue il ottantasettesimo e precede il ottantanovesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/88_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/88"
+  },
+  "LXXXVIII": {
+    "definition_it": "Numero romano che rappresenta il valore 88 (LXXXVIII). Notazione usata nell'antico sistema numerico romano. Segue LXXXVII e precede LXXXIX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/88_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/88"
+  },
+  "ottantanove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 89 (Ottantanove). Nella sequenza dei numeri naturali, segue il ottantotto e precede il novanta.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/89_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/89"
+  },
+  "ottantanovesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 89 in una serie ordinata (Ottantanovesimo). Segue il ottantottesimo e precede il novantesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/89_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/89"
+  },
+  "LXXXIX": {
+    "definition_it": "Numero romano che rappresenta il valore 89 (LXXXIX). Notazione usata nell'antico sistema numerico romano. Segue LXXXVIII e precede XC.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/89_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/89"
+  },
+  "novanta": {
+    "definition_it": "Numero cardinale che esprime la quantità di 90 (Novanta). Nella sequenza dei numeri naturali, segue il ottantanove e precede il novantuno.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/90_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/90"
+  },
+  "novantesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 90 in una serie ordinata (Novantesimo). Segue il ottantanovesimo e precede il novantunesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/90_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/90"
+  },
+  "XC": {
+    "definition_it": "Numero romano che rappresenta il valore 90 (XC). Notazione usata nell'antico sistema numerico romano. Segue LXXXIX e precede XCI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/90_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/90"
+  },
+  "novantuno": {
+    "definition_it": "Numero cardinale che esprime la quantità di 91 (Novantuno). Nella sequenza dei numeri naturali, segue il novanta e precede il novantadue.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/91_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/91"
+  },
+  "novantunesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 91 in una serie ordinata (Novantunesimo). Segue il novantesimo e precede il novantaduesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/91_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/91"
+  },
+  "XCI": {
+    "definition_it": "Numero romano che rappresenta il valore 91 (XCI). Notazione usata nell'antico sistema numerico romano. Segue XC e precede XCII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/91_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/91"
+  },
+  "novantadue": {
+    "definition_it": "Numero cardinale che esprime la quantità di 92 (Novantadue). Nella sequenza dei numeri naturali, segue il novantuno e precede il novantatré.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/92_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/92"
+  },
+  "novantaduesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 92 in una serie ordinata (Novantaduesimo). Segue il novantunesimo e precede il novantatreesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/92_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/92"
+  },
+  "XCII": {
+    "definition_it": "Numero romano che rappresenta il valore 92 (XCII). Notazione usata nell'antico sistema numerico romano. Segue XCI e precede XCIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/92_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/92"
+  },
+  "novantatré": {
+    "definition_it": "Numero cardinale che esprime la quantità di 93 (Novantatré). Nella sequenza dei numeri naturali, segue il novantadue e precede il novantaquattro.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/93_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/93"
+  },
+  "novantatreesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 93 in una serie ordinata (Novantatreesimo). Segue il novantaduesimo e precede il novantaquattresimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/93_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/93"
+  },
+  "XCIII": {
+    "definition_it": "Numero romano che rappresenta il valore 93 (XCIII). Notazione usata nell'antico sistema numerico romano. Segue XCII e precede XCIV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/93_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/93"
+  },
+  "novantaquattro": {
+    "definition_it": "Numero cardinale che esprime la quantità di 94 (Novantaquattro). Nella sequenza dei numeri naturali, segue il novantatré e precede il novantacinque.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/94_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/94"
+  },
+  "novantaquattresimo": {
+    "definition_it": "Numero ordinale che indica la posizione 94 in una serie ordinata (Novantaquattresimo). Segue il novantatreesimo e precede il novantacinquesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/94_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/94"
+  },
+  "XCIV": {
+    "definition_it": "Numero romano che rappresenta il valore 94 (XCIV). Notazione usata nell'antico sistema numerico romano. Segue XCIII e precede XCV.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/94_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/94"
+  },
+  "novantacinque": {
+    "definition_it": "Numero cardinale che esprime la quantità di 95 (Novantacinque). Nella sequenza dei numeri naturali, segue il novantaquattro e precede il novantasei.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/95_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/95"
+  },
+  "novantacinquesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 95 in una serie ordinata (Novantacinquesimo). Segue il novantaquattresimo e precede il novantaseiesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/95_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/95"
+  },
+  "XCV": {
+    "definition_it": "Numero romano che rappresenta il valore 95 (XCV). Notazione usata nell'antico sistema numerico romano. Segue XCIV e precede XCVI.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/95_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/95"
+  },
+  "novantasei": {
+    "definition_it": "Numero cardinale che esprime la quantità di 96 (Novantasei). Nella sequenza dei numeri naturali, segue il novantacinque e precede il novantasette.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/96_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/96"
+  },
+  "novantaseiesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 96 in una serie ordinata (Novantaseiesimo). Segue il novantacinquesimo e precede il novantasettesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/96_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/96"
+  },
+  "XCVI": {
+    "definition_it": "Numero romano che rappresenta il valore 96 (XCVI). Notazione usata nell'antico sistema numerico romano. Segue XCV e precede XCVII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/96_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/96"
+  },
+  "novantasette": {
+    "definition_it": "Numero cardinale che esprime la quantità di 97 (Novantasette). Nella sequenza dei numeri naturali, segue il novantasei e precede il novantotto.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/97_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/97"
+  },
+  "novantasettesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 97 in una serie ordinata (Novantasettesimo). Segue il novantaseiesimo e precede il novantottesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/97_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/97"
+  },
+  "XCVII": {
+    "definition_it": "Numero romano che rappresenta il valore 97 (XCVII). Notazione usata nell'antico sistema numerico romano. Segue XCVI e precede XCVIII.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/97_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/97"
+  },
+  "novantotto": {
+    "definition_it": "Numero cardinale che esprime la quantità di 98 (Novantotto). Nella sequenza dei numeri naturali, segue il novantasette e precede il novantanove.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/98_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/98"
+  },
+  "novantottesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 98 in una serie ordinata (Novantottesimo). Segue il novantasettesimo e precede il novantanovesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/98_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/98"
+  },
+  "XCVIII": {
+    "definition_it": "Numero romano che rappresenta il valore 98 (XCVIII). Notazione usata nell'antico sistema numerico romano. Segue XCVII e precede XCIX.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/98_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/98"
+  },
+  "novantanove": {
+    "definition_it": "Numero cardinale che esprime la quantità di 99 (Novantanove). Nella sequenza dei numeri naturali, segue il novantotto e precede il cento.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/99_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/99"
+  },
+  "novantanovesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 99 in una serie ordinata (Novantanovesimo). Segue il novantottesimo e precede il centesimo.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/99_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/99"
+  },
+  "XCIX": {
+    "definition_it": "Numero romano che rappresenta il valore 99 (XCIX). Notazione usata nell'antico sistema numerico romano. Segue XCVIII e precede C.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/99_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/99"
+  },
+  "cento": {
+    "definition_it": "Numero cardinale che esprime la quantità di 100 (Cento). Segue il novantanove ed è il quadrato di dieci.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/100_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/100"
+  },
+  "centesimo": {
+    "definition_it": "Numero ordinale che indica la posizione 100 in una serie ordinata (Centesimo). Occupa l'ultima posizione nella sequenza 1–100.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/100_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/100"
+  },
+  "C": {
+    "definition_it": "Numero romano che rappresenta il valore 100 (C). Notazione usata nell'antico sistema numerico romano. Segue XCIX ed è l'ultimo della sequenza 1–100.",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/100_(numero)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/100"
+  }
+}

@@ -1,0 +1,739 @@
+{
+  "_meta": {
+    "build_date": "2026-04-01T21:07:39+00:00",
+    "content_hash": "3435388c9d031467a8528561b6ccecf2fa0d055978e9d331272957e07f3970e9"
+  },
+  "Ac": {
+    "definition_it": "Ac - Elemento chimico con numero atomico 89",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Attinio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Actinium"
+  },
+  "Ag": {
+    "definition_it": "elemento chimico con numero atomico 47",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Argento",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Silver"
+  },
+  "Al": {
+    "definition_it": "Al - Elemento chimico con numero atomico 13",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Alluminio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Aluminium"
+  },
+  "Am": {
+    "definition_it": "Am - Elemento chimico con numero atomico 95",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Americio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Americium"
+  },
+  "Ar": {
+    "definition_it": "Ar - Elemento chimico con numero atomico 18",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Argon",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Argon"
+  },
+  "As": {
+    "definition_it": "As - Elemento chimico con numero atomico 33",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Arsenico",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Arsenic"
+  },
+  "At": {
+    "definition_it": "At - Elemento chimico di numero atomico 85",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Astato",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Astatine"
+  },
+  "Au": {
+    "definition_it": "elemento chimico avente numero atomico 79",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Oro",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Gold"
+  },
+  "B": {
+    "definition_it": "B - Elemento chimico con numero atomico 5",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Boro",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Boron"
+  },
+  "Ba": {
+    "definition_it": "Ba - Elemento chimico con numero atomico 56",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Bario",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Barium"
+  },
+  "Be": {
+    "definition_it": "Be - Elemento chimico con numero atomico 4",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Berillio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Beryllium"
+  },
+  "Bh": {
+    "definition_it": "elemento chimico con numero atomico 107",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Bohrio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Bohrium"
+  },
+  "Bi": {
+    "definition_it": "Bi - Elemento chimico con numero atomico 83",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Bismuto",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Bismuth"
+  },
+  "Bk": {
+    "definition_it": "elemento chimico con numero atomico 97",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Berkelio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Berkelium"
+  },
+  "Br": {
+    "definition_it": "Br - Elemento chimico con numero atomico 35",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Bromo",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Bromine"
+  },
+  "C": {
+    "definition_it": "C - Elemento chimico con numero atomico 6",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Carbonio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Carbon"
+  },
+  "Ca": {
+    "definition_it": "Ca - Elemento chimico con numero atomico 20",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Calcio_(elemento_chimico)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Calcium"
+  },
+  "Cd": {
+    "definition_it": "Cd - Elemento chimico con numero atomico 48",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Cadmio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Cadmium"
+  },
+  "Ce": {
+    "definition_it": "Ce - Elemento chimico con numero atomico 58",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Cerio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Cerium"
+  },
+  "Cf": {
+    "definition_it": "elemento chimico con numero atomico 98",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Californio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Californium"
+  },
+  "Cl": {
+    "definition_it": "Cl - Elemento chimico con numero atomico 17",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Cloro",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Chlorine"
+  },
+  "Cm": {
+    "definition_it": "Cm - Elemento chimico con numero atomico 96",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Curio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Curium"
+  },
+  "Cn": {
+    "definition_it": "elemento chimico con numero atomico 112",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Copernicio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Copernicium"
+  },
+  "Co": {
+    "definition_it": "elemento chimico con numero atomico 27 e simbolo Co",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Cobalto",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Cobalt"
+  },
+  "Cr": {
+    "definition_it": "Cr - Elemento chimico con numero atomico 24",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Cromo",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Chromium"
+  },
+  "Cs": {
+    "definition_it": "Cs - elemento chimico con numero atomico 55",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Cesio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Caesium"
+  },
+  "Cu": {
+    "definition_it": "elemento chimico con simbolo Cu e avente numero atomico 29",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Rame",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Copper"
+  },
+  "Db": {
+    "definition_it": "elemento chimico con numero atomico 105",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Dubnio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Dubnium"
+  },
+  "Ds": {
+    "definition_it": "elemento chimico con numero atomico 110",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Darmstadtio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Darmstadtium"
+  },
+  "Dy": {
+    "definition_it": "elemento chimico con numero atomico 66",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Disprosio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Dysprosium"
+  },
+  "Er": {
+    "definition_it": "Er - Elemento chimico con numero atomico 68",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Erbio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Erbium"
+  },
+  "Es": {
+    "definition_it": "Es - Elemento chimico con numero atomico 99",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Einsteinio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Einsteinium"
+  },
+  "Eu": {
+    "definition_it": "Eu - Elemento chimico con numero atomico 63",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Europio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Europium"
+  },
+  "F": {
+    "definition_it": "F - Elemento chimico con numero atomico 9",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Fluoro",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Fluorine"
+  },
+  "Fe": {
+    "definition_it": "elemento chimico con numero atomico 26",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Ferro",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Iron"
+  },
+  "Fl": {
+    "definition_it": "elemento chimico con numero atomico 114",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Flerovio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Flerovium"
+  },
+  "Fm": {
+    "definition_it": "Fm - Elemento chimico con numero atomico 100",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Fermio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Fermium"
+  },
+  "Fr": {
+    "definition_it": "elemento chimico di numero atomico 87",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Francio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Francium"
+  },
+  "Ga": {
+    "definition_it": "Ga - Elemento chimico con numero atomico 31",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Gallio_(elemento_chimico)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Gallium"
+  },
+  "Gd": {
+    "definition_it": "elemento chimico con numero atomico 64",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Gadolinio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Gadolinium"
+  },
+  "Ge": {
+    "definition_it": "Ge - Elemento chimico con numero atomico 32",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Germanio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Germanium"
+  },
+  "H": {
+    "definition_it": "H - Elemento chimico con numero atomico 1",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Idrogeno",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Hydrogen"
+  },
+  "He": {
+    "definition_it": "He - Elemento chimico con numero atomico 2",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Elio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Helium"
+  },
+  "Hf": {
+    "definition_it": "elemento chimico con numero atomico 72",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Afnio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Hafnium"
+  },
+  "Hg": {
+    "definition_it": "elemento chimico con numero atomico 80",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Mercurio_(elemento_chimico)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Mercury_(element)"
+  },
+  "Ho": {
+    "definition_it": "Ho - Elemento con numero atomico 67",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Olmio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Holmium"
+  },
+  "Hs": {
+    "definition_it": "elemento chimico con numero atomico 108",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Hassio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Hassium"
+  },
+  "I": {
+    "definition_it": "elemento chimico con numero atomico 53",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Iodio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Iodine"
+  },
+  "In": {
+    "definition_it": "In - Elemento chimico con numero atomico 49",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Indio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Indium"
+  },
+  "Ir": {
+    "definition_it": "Ir - elemento chimico di numero atomico 77",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Iridio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Iridium"
+  },
+  "K": {
+    "definition_it": "K - Elemento chimico con numero atomico 19",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Potassio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Potassium"
+  },
+  "Kr": {
+    "definition_it": "Kr - Elemento chimico con numero atomico 36",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Kripton",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Krypton"
+  },
+  "La": {
+    "definition_it": "La - Elemento chimico con numero atomico 57",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Lantanio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Lanthanum"
+  },
+  "Li": {
+    "definition_it": "Li - Elemento chimico con numero atomico 3",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Litio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Lithium"
+  },
+  "Lr": {
+    "definition_it": "elemento chimico con numero atomico 103",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Laurenzio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Lawrencium"
+  },
+  "Lu": {
+    "definition_it": "elemento chimico con numero atomico 71",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Lutezio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Lutetium"
+  },
+  "Lv": {
+    "definition_it": "elemento chimico con numero atomico 116",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Livermorio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Livermorium"
+  },
+  "Mc": {
+    "definition_it": "elemento chimico con numero atomico 115",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Moscovio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Moscovium"
+  },
+  "Md": {
+    "definition_it": "Md - Elemento chimico con numero atomico 101",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Mendelevio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Mendelevium"
+  },
+  "Mg": {
+    "definition_it": "Mg - Elemento chimico con numero atomico 12",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Magnesio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Magnesium"
+  },
+  "Mn": {
+    "definition_it": "Mn - Elemento chimico con numero atomico 25",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Manganese",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Manganese"
+  },
+  "Mo": {
+    "definition_it": "elemento chimico di numero atomico 42 e simbolo Mo",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Molibdeno",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Molybdenum"
+  },
+  "Mt": {
+    "definition_it": "elemento chimico con numero atomico 109",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Meitnerio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Meitnerium"
+  },
+  "N": {
+    "definition_it": "N - Elemento chimico con numero atomico 7",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Azoto",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Nitrogen"
+  },
+  "Na": {
+    "definition_it": "Na - Elemento chimico con numero atomico 11",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Sodio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Sodium"
+  },
+  "Nb": {
+    "definition_it": "Nb - Elemento chimico con numero atomico 41",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Niobio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Niobium"
+  },
+  "Nd": {
+    "definition_it": "Nd - Elemento chimico con numero atomico 60",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Neodimio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Neodymium"
+  },
+  "Ne": {
+    "definition_it": "Ne - Elemento chimico con numero atomico 10",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Neon",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Neon"
+  },
+  "Nh": {
+    "definition_it": "elemento chimico con numero atomico 113",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Nihonio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Nihonium"
+  },
+  "Ni": {
+    "definition_it": "Ni - Elemento chimico con numero atomico 28",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Nichel",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Nickel"
+  },
+  "No": {
+    "definition_it": "No - Elemento chimico con numero atomico 102",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Nobelio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Nobelium"
+  },
+  "Np": {
+    "definition_it": "Np - Elemento chimico con numero atomico 93",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Nettunio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Neptunium"
+  },
+  "O": {
+    "definition_it": "O - Elemento chimico con numero atomico 8",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Ossigeno",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Oxygen"
+  },
+  "Og": {
+    "definition_it": "elemento con numero atomico 118",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Oganesson",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Oganesson"
+  },
+  "Os": {
+    "definition_it": "Os - Elemento chimico con numero atomico 76",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Osmio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Osmium"
+  },
+  "P": {
+    "definition_it": "P - elemento chimico con numero atomico 15",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Fosforo",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Phosphorus"
+  },
+  "Pa": {
+    "definition_it": "elemento chimico con numero atomico 91",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Protoattinio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Protactinium"
+  },
+  "Pb": {
+    "definition_it": "Pb - elemento chimico con numero atomico 82",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Piombo",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Lead"
+  },
+  "Pd": {
+    "definition_it": "Pd - Elemento chimico con numero atomico 46",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Palladio_(elemento_chimico)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Palladium"
+  },
+  "Pm": {
+    "definition_it": "Pm - elemento chimico con numero atomico 61",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Promezio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Promethium"
+  },
+  "Po": {
+    "definition_it": "elemento chimico con numero atomico 84",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Polonio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Polonium"
+  },
+  "Pr": {
+    "definition_it": "elemento chimico con numero atomico 59",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Praseodimio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Praseodymium"
+  },
+  "Pt": {
+    "definition_it": "Pt - Elemento chimico di numero atomico 78",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Platino",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Platinum"
+  },
+  "Pu": {
+    "definition_it": "Pu - elemento chimico con numero atomico 94",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Plutonio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Plutonium"
+  },
+  "Ra": {
+    "definition_it": "Ra - Elemento chimico con numero atomico 88",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Radio_(elemento_chimico)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Radium"
+  },
+  "Rb": {
+    "definition_it": "Rb - Elemento chimico con numero atomico 37",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Rubidio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Rubidium"
+  },
+  "Re": {
+    "definition_it": "Re - elemento chimico con numero atomico 75",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Renio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Rhenium"
+  },
+  "Rf": {
+    "definition_it": "elemento chimico con numero atomico 104",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Rutherfordio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Rutherfordium"
+  },
+  "Rg": {
+    "definition_it": "elemento chimico con numero atomico 111",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Roentgenio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Roentgenium"
+  },
+  "Rh": {
+    "definition_it": "Rh - Elemento chimico con numero atomico 45",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Rodio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Rhodium"
+  },
+  "Rn": {
+    "definition_it": "elemento chimico con numero atomico 86",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Radon",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Radon"
+  },
+  "Ru": {
+    "definition_it": "Ru - Elemento chimico con numero atomico 44",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Rutenio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Ruthenium"
+  },
+  "S": {
+    "definition_it": "S - Elemento chimico con numero atomico 16",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Zolfo",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Sulfur"
+  },
+  "Sb": {
+    "definition_it": "Sb - Elemento chimico di numero atomico 51",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Antimonio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Antimony"
+  },
+  "Sc": {
+    "definition_it": "Sc - Elemento chimico con numero atomico 21",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Scandio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Scandium"
+  },
+  "Se": {
+    "definition_it": "Se - elemento chimico di numero atomico 34",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Selenio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Selenium"
+  },
+  "Sg": {
+    "definition_it": "elemento chimico con numero chimico 106",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Seaborgio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Seaborgium"
+  },
+  "Si": {
+    "definition_it": "Si - Elemento chimico con numero atomico 14",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Silicio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Silicon"
+  },
+  "Sm": {
+    "definition_it": "Sm - Elemento chimico con numero atomico 62",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Samario",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Samarium"
+  },
+  "Sn": {
+    "definition_it": "Sn - Elemento chimico con numero atomico 50",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Stagno_(elemento_chimico)",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Tin"
+  },
+  "Sr": {
+    "definition_it": "elemento chimico con numero atomico 38",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Stronzio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Strontium"
+  },
+  "Ta": {
+    "definition_it": "Ta - Elemento chimico con numero atomico 73",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Tantalio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Tantalum"
+  },
+  "Tb": {
+    "definition_it": "Tb - Elemento chimico con numero atomico 65",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Terbio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Terbium"
+  },
+  "Tc": {
+    "definition_it": "Tc - Elemento chimico di numero atomico 43",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Tecnezio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Technetium"
+  },
+  "Te": {
+    "definition_it": "Te - Elemento chimico con numero atomico 52",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Tellurio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Tellurium"
+  },
+  "Th": {
+    "definition_it": "elemento chimico con numero atomico 90",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Torio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Thorium"
+  },
+  "Ti": {
+    "definition_it": "Ti - Elemento chimico con numero atomico 22",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Titanio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Titanium"
+  },
+  "Tl": {
+    "definition_it": "elemento chimico con numero atomico 81 e simbolo Tl",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Tallio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Thallium"
+  },
+  "Tm": {
+    "definition_it": "Tm - Elemento con numero atomico 69",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Tulio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Thulium"
+  },
+  "Ts": {
+    "definition_it": "elemento chimico con numero atomico 117",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Tennesso",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Tennessine"
+  },
+  "U": {
+    "definition_it": "elemento chimico con numero atomico 92",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Uranio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Uranium"
+  },
+  "Ubb": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 122",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbibium"
+  },
+  "Ube": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 129",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbiennium"
+  },
+  "Ubh": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 126",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbihexium"
+  },
+  "Ubn": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 120",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Unbinilio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbinilium"
+  },
+  "Ubo": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 128",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbioctium"
+  },
+  "Ubp": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 125",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbipentium"
+  },
+  "Ubq": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 124",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbiquadium"
+  },
+  "Ubs": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 127",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbiseptium"
+  },
+  "Ubt": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 123",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbitrium"
+  },
+  "Ubu": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 121",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unbiunium"
+  },
+  "Upb": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 152",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unpentbium"
+  },
+  "Upn": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 150",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unpentnilium"
+  },
+  "Upt": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 153",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unpenttrium"
+  },
+  "Upu": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 151",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unpentunium"
+  },
+  "Uqb": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 142",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadbium"
+  },
+  "Uqe": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 149",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadennium"
+  },
+  "Uqh": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 146",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadhexium"
+  },
+  "Uqn": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 140",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadnilium"
+  },
+  "Uqo": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 148",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadoctium"
+  },
+  "Uqp": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 145",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadpentium"
+  },
+  "Uqq": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 144",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadquadium"
+  },
+  "Uqs": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 147",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadseptium"
+  },
+  "Uqt": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 143",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadtrium"
+  },
+  "Uqu": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 141",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Unquadunium"
+  },
+  "Utb": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 132",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untribium"
+  },
+  "Ute": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 139",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untriennium"
+  },
+  "Uth": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 136",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untrihexium"
+  },
+  "Utn": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 130",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untrinilium"
+  },
+  "Uto": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 138",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untrioctium"
+  },
+  "Utp": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 135",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untripentium"
+  },
+  "Utq": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 134",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untriquadium"
+  },
+  "Uts": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 137",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Untriseptio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untriseptium"
+  },
+  "Utt": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 133",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untritrium"
+  },
+  "Utu": {
+    "definition_it": "ipotetico elemento chimico con numero atomico 131",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Untriunium"
+  },
+  "Uue": {
+    "definition_it": "ipotetico elemento chimico di numero atomico 119",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Ununennio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Ununennium"
+  },
+  "V": {
+    "definition_it": "elemento chimico con numero atomico 23",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Vanadio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Vanadium"
+  },
+  "W": {
+    "definition_it": "elemento chimico con numero atomico 74",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Tungsteno",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Tungsten"
+  },
+  "Xe": {
+    "definition_it": "Xe - Elemento chimico con numero atomico 54",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Xeno",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Xenon"
+  },
+  "Y": {
+    "definition_it": "elemento chimico con numero atomico 39",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Ittrio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Yttrium"
+  },
+  "Yb": {
+    "definition_it": "Yb - Elemento chimico con numero atomico 70",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Itterbio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Ytterbium"
+  },
+  "Zn": {
+    "definition_it": "Zn - Elemento chimico con numero atomico 30",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Zinco",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Zinc"
+  },
+  "Zr": {
+    "definition_it": "elemento chimico con numero atomico 40 -simbolo chimico Zr",
+    "wikipedia_it": "https://it.wikipedia.org/wiki/Zirconio",
+    "wikipedia_en": "https://en.wikipedia.org/wiki/Zirconium"
+  }
+}
